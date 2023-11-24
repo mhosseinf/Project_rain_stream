@@ -209,8 +209,8 @@
   "6055W032":{
     "Sitno":"6055W032",
     "StationId":"IWSS",
-    "lat":"\u00a0-31.900047",
-    "lon":"\u00a0115.974316",
+    "lat":"-31.900047",
+    "lon":"115.974316",
     "Elev":null,
     "address":"HUBERT ST H20 GUILDFORD",
     "team":"Conveyance"
@@ -219,7 +219,7 @@
     "Sitno":"6056W033",
     "StationId":"IWSS",
     "lat":"-31.836628",
-    "lon":"\u00a0116.037533",
+    "lon":"116.037533",
     "Elev":null,
     "address":"179 Gugeri Rd Herne Hill",
     "team":"Conveyance"
@@ -552,7 +552,7 @@
     "Sitno":"6031W030",
     "StationId":"IWSS",
     "lat":"-31.702025",
-    "lon":"\u00a0115.804467",
+    "lon":"115.804467",
     "Elev":null,
     "address":"27 Media Cr Banksia Grove",
     "team":"Conveyance"
@@ -560,7 +560,7 @@
   "6031W029":{
     "Sitno":"6031W029",
     "StationId":"IWSS",
-    "lat":"\u00a0-31.688705",
+    "lat":"-31.688705",
     "lon":"115.809077",
     "Elev":null,
     "address":"57 Boomerang Loop Banksia Grove",
@@ -596,7 +596,7 @@
   "6031W027":{
     "Sitno":"6031W027",
     "StationId":"IWSS",
-    "lat":"\u00a0-31.680041\u00a0",
+    "lat":"-31.680041",
     "lon":"115.788826",
     "Elev":null,
     "address":" 69 Mather Dr Neerabup",
@@ -624,7 +624,7 @@
     "Sitno":"6209W002",
     "StationId":"IWSS",
     "lat":"-32.560147",
-    "lon":"\u00a0115.764125",
+    "lon":"115.764125",
     "Elev":null,
     "address":"22 Ronlyn Rd Furnissdale",
     "team":"Conveyance"
@@ -632,7 +632,7 @@
   "6210W045":{
     "Sitno":"6210W045",
     "StationId":"IWSS",
-    "lat":"\u00a0-32.556495",
+    "lat":"-32.556495",
     "lon":"115.685673",
     "Elev":null,
     "address":"31 Bookleaf lp Halls Head",
@@ -650,7 +650,7 @@
   "6180W009":{
     "Sitno":"6180W009",
     "StationId":"IWSS",
-    "lat":"\u00a0-32.470950",
+    "lat":"-32.470950",
     "lon":"115.779041",
     "Elev":null,
     "address":"281 Lake Valley Drive Lakelands",
@@ -659,7 +659,7 @@
   "6210W198":{
     "Sitno":"6210W198",
     "StationId":"IWSS",
-    "lat":"\u00a0-32.476545",
+    "lat":"-32.476545",
     "lon":"115.753733",
     "Elev":null,
     "address":"9 Barringarra Rd Madora Bay",
@@ -704,7 +704,7 @@
   "6208W055":{
     "Sitno":"6208W055",
     "StationId":"IWSS",
-    "lat":"\u00a0-32.606029",
+    "lat":"-32.606029",
     "lon":"115.858448",
     "Elev":null,
     "address":"29 Sunset Cir Pinjarra",
@@ -713,7 +713,7 @@
   "6175W008":{
     "Sitno":"6175W008",
     "StationId":"IWSS",
-    "lat":"\u00a0-32.436162",
+    "lat":"-32.436162",
     "lon":"115.761595",
     "Elev":null,
     "address":"40 Lookout Vista Singleton",
@@ -767,8 +767,8 @@
   "6112W047":{
     "Sitno":"6112W047",
     "StationId":"IWSS",
-    "lat":"\u00a0-32.158302",
-    "lon":"\u00a0116.015324",
+    "lat":"-32.158302",
+    "lon":"116.015324",
     "Elev":null,
     "address":"21 John Street Armadale",
     "team":"Conveyance"
@@ -776,7 +776,7 @@
   "6112W050":{
     "Sitno":"6112W050",
     "StationId":"IWSS",
-    "lat":"-32.134372\u00a0",
+    "lat":"-32.134372",
     "lon":"116.016566",
     "Elev":null,
     "address":"LATHWELL ST H33 Armadale",
@@ -785,7 +785,7 @@
   "6171W042":{
     "Sitno":"6171W042",
     "StationId":"IWSS",
-    "lat":"\u00a0-32.353887",
+    "lat":"-32.353887",
     "lon":"115.805947",
     "Elev":null,
     "address":"Opp. 72 Ridge Bvd Baldivis Baldivis ",
@@ -813,7 +813,7 @@
     "Sitno":"6122W016",
     "StationId":"IWSS",
     "lat":"-32.223512",
-    "lon":"\u00a0116.011632",
+    "lon":"116.011632",
     "Elev":null,
     "address":"15 Camembert St Byford",
     "team":"Conveyance"
@@ -885,7 +885,7 @@
     "Sitno":"6112W052",
     "StationId":"IWSS",
     "lat":"-32.17826",
-    "lon":"\u00a0115.965070",
+    "lon":"115.965070",
     "Elev":null,
     "address":"24 Oaklawn St Hilbert",
     "team":"Conveyance"
@@ -903,7 +903,7 @@
     "Sitno":"6112W028",
     "StationId":"IWSS",
     "lat":"-32.138771",
-    "lon":"\u00a0115.925770",
+    "lon":"115.925770",
     "Elev":null,
     "address":"RIVA ENT & BARCELONA  Piara Waters",
     "team":"Conveyance"
@@ -920,7 +920,7 @@
   "6125W007":{
     "Sitno":"6125W007",
     "StationId":"IWSS",
-    "lat":"\u00a0-32.364085",
+    "lat":"-32.364085",
     "lon":"115.977395",
     "Elev":null,
     "address":"SERPENTINE AT 4 WELLARD ST",
@@ -938,7 +938,7 @@
   "6110W051":{
     "Sitno":"6110W051",
     "StationId":"IWSS",
-    "lat":"\u00a0-32.10545",
+    "lat":"-32.10545",
     "lon":"115.958022",
     "Elev":null,
     "address":"CLEARWATER DR H22 Southern River",
@@ -992,7 +992,7 @@
   "6171W044":{
     "Sitno":"6171W044",
     "StationId":"IWSS",
-    "lat":"\u00a0-32.359013\u00a0",
+    "lat":"-32.359013",
     "lon":"115.792441",
     "Elev":null,
     "address":"BALDIVIS AT 25 GREYGUM RIDGE",
@@ -1002,7 +1002,7 @@
     "Sitno":"6164W074",
     "StationId":"IWSS",
     "lat":"-32.177156",
-    "lon":"\u00a0115.836931",
+    "lon":"115.836931",
     "Elev":null,
     "address":"40 Barfield Rd  Hammond Park",
     "team":"Conveyance"
@@ -1038,7 +1038,7 @@
     "Sitno":"6163W091",
     "StationId":"IWSS",
     "lat":"-32.083234",
-    "lon":"\u00a0115.759395",
+    "lon":"115.759395",
     "Elev":null,
     "address":"\n3 Darkan Ave North Coogee",
     "team":"Conveyance"
