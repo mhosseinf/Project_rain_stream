@@ -1,256 +1,256 @@
-﻿Site No.,Station Type,Address,Lat,Long,Elev(m),Team,,,
-509398,Rain_gauge,BALLAJURA DRAIN AT BALLAJURA,-31.82423,115.87203,39,Catchment & Environments,,,
-509417,Rain_gauge,WOODBRIDGE CREEK AT BROWN PARK (P1),-31.89140,116.05243,48,Catchment & Environments,,,
-509452,Rain_gauge,LESMURDIE BROOK  AT ORANGEDALE ROAD (P9) ,-32.00513,116.06026,267,Catchment & Environments,,,
-509460,Rain_gauge,POISON GULLY AT MAIDA VALE (P6),-31.94756,116.06026,267,Catchment & Environments,,,
-509573,Rain_gauge,LIGHT ST B.D. AT MORLEY ,-31.88917,115.88889,24,Catchment & Environments,,,
-509574,Rain_gauge,BOORAGOON LAKE INFLOW  AT PINEY LAKES RESERVE ,-32.04753,115.84215,20,Catchment & Environments,,,
-509583,Rain_gauge,MARKET GARDEN SWAMPS AT PACKHAM 1B DRAIN ,-32.11757,115.77916,2,Catchment & Environments,,,
-509593,Rain_gauge,ESSEX ST MD AT FREMANTLE JAIL ,-32.05580,115.75392,20,Catchment & Environments,,,
-509702,Rain_gauge,ROCKINGHAM MAIN DRAIN AT WENDO COURT,-32.28389,115.76167,8,Catchment & Environments,,,
-509704,Rain_gauge,COLIN RD MAIN DRAIN AT COLIN RD COMP BASIN ,-31.89972,115.76667,3,Catchment & Environments,,,
-509451,Rain_gauge,BICKLEY BROOK AT AUSTIN AVENUE (P10) ,-32.04167,115.97750,7,Catchment & Environments,,,
-509458,Rain_gauge,WOODLUPINE BROOK AT WELSHPOOL (P8) ,-32.00361,115.97694,13,Catchment & Environments,,,
-509459,Rain_gauge,NEERIGEN BROOK AT ARMADALE (P5),-32.14961,116.02060,63,Catchment & Environments,,,
-509703,Rain_gauge,MILLS ST MAIN DRAIN AT ELLAM ST EAST COMPENSATING BASIN,-31.99611,115.91750,8,Catchment & Environments,,,
-W0034613,Rain_gauge,MT ELIZA FRASER AV KINGS PARK,-31.95803,115.84148,73,Catchment & Environments,,,
-616015,GSTN,POISON GULLY CREEK AT LITTLEFIELD RD,-31.95366,116.00671,40,Catchment & Environments,,,
-616042,GSTN,YULE BROOK MAIN DRAIN AT BRIXTON STREET,-32.02528,115.96722,5,Catchment & Environments,,,
-616043,GSTN,MILL ST MAIN DRAIN AT PALM PLACE,-32.01644,115.91949,4,Catchment & Environments,,,
-616044,GSTN,NEERIGEN BROOK MAIN DRAIN AT ABBEY ROAD,-32.15000,116.01083,52,Catchment & Environments,,,
-616045,GSTN,MT LAWLEY MAIN DRAIN AT MT LAWLEY,-31.93900,115.87895,0,Catchment & Environments,,,
-616046,GSTN,WOODLUPINE BROOK AT HARTFIELD PARK,-31.99872,115.98939,18,Catchment & Environments,,,
-616047,GSTN,BICKLEY BROOK MAIN DRAIN AT AUSTIN AVE,-32.04306,115.97620,7,Catchment & Environments,,,
-6556W003,IWSS,163 Willcox St Chidlow,-31.86117,116.27796,,Conveyance,,,
-6055W032,IWSS,HUBERT ST H20 GUILDFORD,-31.90005,115.97432,,Conveyance,,,
-6056W033,IWSS,179 Gugeri Rd Herne Hill,-31.83663,116.03753,,Conveyance,,,
-6072W001,IWSS,100 THORNBILL PL Mahogany Creek,-31.91377,116.13303,,Conveyance,,,
-6082W002,IWSS,9 Buckland Gr Mt Helena,-31.86654,116.22089,,Conveyance,,,
-6081W008,IWSS,20 Vista Dr Parkerville,-31.87286,116.14739,,Conveyance,,,
-6074W002,IWSS,660 LANCE ST Sawyers Valley,-31.88742,116.22292,,Conveyance,,,
-6056W004,IWSS,39 Campolino Gardens Stratton,-31.86739,116.04897,,Conveyance,,,
-6053W001,IWSS,15 Bay View St Bayswater,-31.90903,115.90232,,Conveyance,,,
-6055W008,IWSS,147 Arthur St Dayton,-31.86067,115.97373,,Conveyance,,,
-6055W029,IWSS,5 Sapphire Rd Dayton,-31.84919,115.97786,,Conveyance,,,
-6055W028,IWSS,152 Cranleigh St Dayton,-31.85136,115.97169,,Conveyance,,,
-6000W031,IWSS,231 Adelaide Tce East Perth,-31.95844,115.86734,,Conveyance,,,
-6004W016,IWSS,28 Trafalgar Rd East Perth,-31.95510,115.88028,,Conveyance,,,
-6018W016,IWSS,42 Paine Court Karrinyup,-31.87751,115.78258,,Conveyance,,,
-6062W019,IWSS,3B Mcpherson Ave  Noranda,-31.87764,115.91309,,Conveyance,,,
-6019W005,IWSS,3 Sackville Terrace Scarborough,-31.88927,115.76259,,Conveyance,,,
-6037W004,IWSS,TWO ROCKS AT 102 ASHMORE AV,-31.50376,115.60786,,Conveyance,,,
-6025W053,IWSS,HILLARYS OP 25 RAE Pl,-31.81299,115.74980,,Conveyance,,,
-6035W024,IWSS,8 Birdie Gr Yanchep,-31.54399,115.65465,,Conveyance,,,
-6035W025,IWSS,19 Chittick Way Yanchep,-31.53604,115.63367,,Conveyance,,,
-6035W010,IWSS,62 Moorpark Av Yanchep,-31.54243,115.64781,,Conveyance,,,
-6063W009,IWSS,1 CHAMAELEON RD Bennett Springs,-31.85682,115.95613,,Conveyance,,,
-6063W004,IWSS,127 Bennett Springs Dr Bennett Springs,-31.85764,115.93518,,Conveyance,,,
-6063W010,IWSS,BENNETT SPRINGS AT 57 MITRA LOOP,-31.85690,115.91827,,Conveyance,,,
-6055W026,IWSS,121 Pannage Way Brabham,-31.81443,115.97788,,Conveyance,,,
-6055W027,IWSS,11 BILDERSEE AV Brabham,-31.81445,115.96442,,Conveyance,,,
-6084W011,IWSS,15 CORVETTE RD  BULLSBROOK,-31.67317,116.02944,,Conveyance,,,
-6084W010,IWSS,H66 HURD RD BULLSBROOK,-31.65944,116.04559,,Conveyance,,,
-6055W030,IWSS,OPP 218 Patricia St Caversham,-31.86636,115.95860,,Conveyance,,,
-6069W027,IWSS,35 Charlottes Vista  Ellenbrook,-31.62435,115.69595,,Conveyance,,,
-6069W028,IWSS,109 Pineroo Terrace  Ellenbrook,-31.74789,115.98098,,Conveyance,,,
-6069W033,IWSS,THE VINES AT 49 HAWTHORDEN AVE,-31.74569,115.99923,,Conveyance,,,
-6069W024,IWSS,TURNBERRY WAY H14 The Vines,-31.76726,116.02002,,Conveyance,,,
+﻿Site No.,Station Type,Address,Lat,Long,Status,Team
+509398,Rain_gauge,BALLAJURA DRAIN AT BALLAJURA,-31.82423,115.87203,Active,Catchment & Environments
+509417,Rain_gauge,WOODBRIDGE CREEK AT BROWN PARK (P1),-31.8914,116.05243,Active,Catchment & Environments
+509452,Rain_gauge,LESMURDIE BROOK  AT ORANGEDALE ROAD (P9) ,-32.00513,116.06026,Active,Catchment & Environments
+509460,Rain_gauge,POISON GULLY AT MAIDA VALE (P6),-31.94756,116.06026,Active,Catchment & Environments
+509573,Rain_gauge,LIGHT ST B.D. AT MORLEY ,-31.88917,115.88889,Active,Catchment & Environments
+509574,Rain_gauge,BOORAGOON LAKE INFLOW  AT PINEY LAKES RESERVE ,-32.04753,115.84215,Active,Catchment & Environments
+509583,Rain_gauge,MARKET GARDEN SWAMPS AT PACKHAM 1B DRAIN ,-32.11757,115.77916,Inactive,Catchment & Environments
+509593,Rain_gauge,ESSEX ST MD AT FREMANTLE JAIL ,-32.0558,115.75392,fault,Catchment & Environments
+509702,Rain_gauge,ROCKINGHAM MAIN DRAIN AT WENDO COURT,-32.28389,115.76167,Active,Catchment & Environments
+509704,Rain_gauge,COLIN RD MAIN DRAIN AT COLIN RD COMP BASIN ,-31.89972,115.76667,Active,Catchment & Environments
+509451,Rain_gauge,BICKLEY BROOK AT AUSTIN AVENUE (P10) ,-32.04167,115.9775,Active,Catchment & Environments
+509458,Rain_gauge,WOODLUPINE BROOK AT WELSHPOOL (P8) ,-32.00361,115.97694,Active,Catchment & Environments
+509459,Rain_gauge,NEERIGEN BROOK AT ARMADALE (P5),-32.14961,116.0206,Active,Catchment & Environments
+509703,Rain_gauge,MILLS ST MAIN DRAIN AT ELLAM ST EAST COMPENSATING BASIN,-31.99611,115.9175,Active,Catchment & Environments
+W0034613,Rain_gauge,MT ELIZA FRASER AV KINGS PARK,-31.95803,115.84148,Active,Catchment & Environments
+616015,GSTN,POISON GULLY CREEK AT LITTLEFIELD RD,-31.95366,116.00671,Active,Catchment & Environments
+616042,GSTN,YULE BROOK MAIN DRAIN AT BRIXTON STREET,-32.02528,115.96722,Active,Catchment & Environments
+616043,GSTN,MILL ST MAIN DRAIN AT PALM PLACE,-32.01644,115.91949,Inactive,Catchment & Environments
+616044,GSTN,NEERIGEN BROOK MAIN DRAIN AT ABBEY ROAD,-32.15,116.01083,fault,Catchment & Environments
+616045,GSTN,MT LAWLEY MAIN DRAIN AT MT LAWLEY,-31.939,115.87895,Active,Catchment & Environments
+616046,GSTN,WOODLUPINE BROOK AT HARTFIELD PARK,-31.99872,115.98939,Active,Catchment & Environments
+616047,GSTN,BICKLEY BROOK MAIN DRAIN AT AUSTIN AVE,-32.04306,115.9762,Active,Catchment & Environments
+6556W003,IWSS,163 Willcox St Chidlow,-31.86117,116.27796,Active,Conveyance
+6055W032,IWSS,HUBERT ST H20 GUILDFORD,-31.90005,115.97432,Active,Conveyance
+6056W033,IWSS,179 Gugeri Rd Herne Hill,-31.83663,116.03753,Active,Conveyance
+6072W001,IWSS,100 THORNBILL PL Mahogany Creek,-31.91377,116.13303,Active,Conveyance
+6082W002,IWSS,9 Buckland Gr Mt Helena,-31.86654,116.22089,Active,Conveyance
+6081W008,IWSS,20 Vista Dr Parkerville,-31.87286,116.14739,Active,Conveyance
+6074W002,IWSS,660 LANCE ST Sawyers Valley,-31.88742,116.22292,Active,Conveyance
+6056W004,IWSS,39 Campolino Gardens Stratton,-31.86739,116.04897,Active,Conveyance
+6053W001,IWSS,15 Bay View St Bayswater,-31.90903,115.90232,Active,Conveyance
+6055W008,IWSS,147 Arthur St Dayton,-31.86067,115.97373,Active,Conveyance
+6055W029,IWSS,5 Sapphire Rd Dayton,-31.84919,115.97786,Active,Conveyance
+6055W028,IWSS,152 Cranleigh St Dayton,-31.85136,115.97169,Active,Conveyance
+6000W031,IWSS,231 Adelaide Tce East Perth,-31.95844,115.86734,Active,Conveyance
+6004W016,IWSS,28 Trafalgar Rd East Perth,-31.9551,115.88028,Active,Conveyance
+6018W016,IWSS,42 Paine Court Karrinyup,-31.87751,115.78258,Active,Conveyance
+6062W019,IWSS,3B Mcpherson Ave  Noranda,-31.87764,115.91309,Active,Conveyance
+6019W005,IWSS,3 Sackville Terrace Scarborough,-31.88927,115.76259,Inactive,Conveyance
+6037W004,IWSS,TWO ROCKS AT 102 ASHMORE AV,-31.50376,115.60786,fault,Conveyance
+6025W053,IWSS,HILLARYS OP 25 RAE Pl,-31.81299,115.7498,Active,Conveyance
+6035W024,IWSS,8 Birdie Gr Yanchep,-31.54399,115.65465,Active,Conveyance
+6035W025,IWSS,19 Chittick Way Yanchep,-31.53604,115.63367,Active,Conveyance
+6035W010,IWSS,62 Moorpark Av Yanchep,-31.54243,115.64781,Active,Conveyance
+6063W009,IWSS,1 CHAMAELEON RD Bennett Springs,-31.85682,115.95613,Active,Conveyance
+6063W004,IWSS,127 Bennett Springs Dr Bennett Springs,-31.85764,115.93518,Inactive,Conveyance
+6063W010,IWSS,BENNETT SPRINGS AT 57 MITRA LOOP,-31.8569,115.91827,fault,Conveyance
+6055W026,IWSS,121 Pannage Way Brabham,-31.81443,115.97788,Active,Conveyance
+6055W027,IWSS,11 BILDERSEE AV Brabham,-31.81445,115.96442,Active,Conveyance
+6084W011,IWSS,15 CORVETTE RD  BULLSBROOK,-31.67317,116.02944,Active,Conveyance
+6084W010,IWSS,H66 HURD RD BULLSBROOK,-31.65944,116.04559,Active,Conveyance
+6055W030,IWSS,OPP 218 Patricia St Caversham,-31.86636,115.9586,Active,Conveyance
+6069W027,IWSS,35 Charlottes Vista  Ellenbrook,-31.62435,115.69595,Active,Conveyance
+6069W028,IWSS,109 Pineroo Terrace  Ellenbrook,-31.74789,115.98098,Active,Conveyance
+6069W033,IWSS,THE VINES AT 49 HAWTHORDEN AVE,-31.74569,115.99923,Active,Conveyance
+6069W024,IWSS,TURNBERRY WAY H14 The Vines,-31.76726,116.02002,Active,Conveyance
 "
-6069W032",IWSS,50 Citrus Street Upper Swan,-31.76726,116.02002,,Conveyance,,,
-6069W031,IWSS,7 Orchard Street Upper Swan,-31.76920,116.02992,,Conveyance,,,
-6038W005,IWSS,56 Chesham Rise Alkimos,-31.62435,115.69595,,Conveyance,,,
-6038W006,IWSS,79 Zodiac Drive Alkimos,-31.60500,115.66324,,Conveyance,,,
-6038W007,IWSS,52 Shipmaster Av Alkimos,-31.59965,115.67805,,Conveyance,,,
-6031W030,IWSS,27 Media Cr Banksia Grove,-31.70203,115.80447,,Conveyance,,,
-6031W029,IWSS,57 Boomerang Loop Banksia Grove,-31.68871,115.80908,,Conveyance,,,
-6036W010,IWSS,BUTLER AT 247 LANDBEACH BVD,-31.63173,115.70690,,Conveyance,,,
-6034W001,IWSS,5 Revolution Ave Eglington,-31.57686,115.66470,,Conveyance,,,
-6065W032,IWSS,4 Meadowbank Way Landsdale,-31.81158,115.85928,,Conveyance,,,
-6031W027,IWSS, 69 Mather Dr Neerabup,-31.68004,115.78883,,Conveyance,,,
-6031W028,IWSS,53 Avery St Neerabup,-31.68199,115.78250,,Conveyance,,,
-6065W033,IWSS,4 Aquantia Pl Wanneroo,-31.75573,115.81929,,Conveyance,,,
-6209W002,IWSS,22 Ronlyn Rd Furnissdale,-32.56015,115.76413,,Conveyance,,,
-6210W045,IWSS,31 Bookleaf lp Halls Head,-32.55650,115.68567,,Conveyance,,,
-6176W002,IWSS,OPPOSITE 16 Navajo Rd Karnup,-32.44290,115.76983,,Conveyance,,,
-6180W009,IWSS,281 Lake Valley Drive Lakelands,-32.47095,115.77904,,Conveyance,,,
-6210W198,IWSS,9 Barringarra Rd Madora Bay,-32.47655,115.75373,,Conveyance,,,
-6210W200,IWSS,14 Pismo St Madora Bay,-32.46649,115.75557,,Conveyance,,,
-6210W197,IWSS,9 St Pierre Loop Meadow Spring,-32.48774,115.76425,,Conveyance,,,
-6207W003,IWSS,25 South St North Dandalup,-32.52033,115.96749,,Conveyance,,,
-6208W060,IWSS,NORTH YUNDERUP AT 168 CULEENUP RD,-32.57790,115.79738,,Conveyance,,,
-6208W055,IWSS,29 Sunset Cir Pinjarra,-32.60603,115.85845,,Conveyance,,,
-6175W008,IWSS,40 Lookout Vista Singleton,-32.43616,115.76160,,Conveyance,,,
-6208W056,IWSS,22 Tanderra Pl South Yunderup,-32.58867,115.77561,,Conveyance,,,
-6208W057,IWSS,19 Pegus Mndr South Yunderup ,-32.59365,115.81001,,Conveyance,,,
-6122W021,IWSS,BYFORD AT 4 WOOMERA GRANGE,-32.23537,115.99100,,Conveyance,,,
-6125W008,IWSS,SERPENTINE AT 2 BUSHEL RD ON WALKER RD,-32.37410,115.96090,,Conveyance,,,
-6148W003,IWSS,SHELLEY AT 1 LINKWATER ST,-32.02223,115.89314,,Conveyance,,,
-6112W047,IWSS,21 John Street Armadale,-32.15830,116.01532,,Conveyance,,,
-6112W050,IWSS,LATHWELL ST H33 Armadale,-32.13437,116.01657,,Conveyance,,,
-6171W042,IWSS,Opp. 72 Ridge Bvd Baldivis Baldivis ,-32.35389,115.80595,,Conveyance,,,
-6112W048,IWSS,203 Wungong Rd Brookdale,-32.17356,116.00764,,Conveyance,,,
-6122W017,IWSS,19 Culham Vista Byford,-32.23938,115.98117,,Conveyance,,,
-6122W016,IWSS,15 Camembert St Byford,-32.22351,116.01163,,Conveyance,,,
-6125W002,IWSS,BARJADDA ST H19 BYFORD,-32.20968,115.98573,,Conveyance,,,
-6155W041,IWSS,33 The Heights Canning Vale ,-32.07874,115.91010,,Conveyance,,,
-6155W069,IWSS,CANNING VALE AT 7 RANGEVIEW PL,-32.08175,115.90610,,Conveyance,,,
-6101W008,IWSS,EAST VICTORIA PARK AT 121 CANTERBURY TCE,-31.99110,115.89742,,Conveyance,,,
+6069W032",IWSS,50 Citrus Street Upper Swan,-31.76726,116.02002,Active,Conveyance
+6069W031,IWSS,7 Orchard Street Upper Swan,-31.7692,116.02992,Active,Conveyance
+6038W005,IWSS,56 Chesham Rise Alkimos,-31.62435,115.69595,Active,Conveyance
+6038W006,IWSS,79 Zodiac Drive Alkimos,-31.605,115.66324,Active,Conveyance
+6038W007,IWSS,52 Shipmaster Av Alkimos,-31.59965,115.67805,Active,Conveyance
+6031W030,IWSS,27 Media Cr Banksia Grove,-31.70203,115.80447,Active,Conveyance
+6031W029,IWSS,57 Boomerang Loop Banksia Grove,-31.68871,115.80908,Active,Conveyance
+6036W010,IWSS,BUTLER AT 247 LANDBEACH BVD,-31.63173,115.7069,Active,Conveyance
+6034W001,IWSS,5 Revolution Ave Eglington,-31.57686,115.6647,Active,Conveyance
+6065W032,IWSS,4 Meadowbank Way Landsdale,-31.81158,115.85928,Active,Conveyance
+6031W027,IWSS, 69 Mather Dr Neerabup,-31.68004,115.78883,Active,Conveyance
+6031W028,IWSS,53 Avery St Neerabup,-31.68199,115.7825,Active,Conveyance
+6065W033,IWSS,4 Aquantia Pl Wanneroo,-31.75573,115.81929,Active,Conveyance
+6209W002,IWSS,22 Ronlyn Rd Furnissdale,-32.56015,115.76413,Active,Conveyance
+6210W045,IWSS,31 Bookleaf lp Halls Head,-32.5565,115.68567,Active,Conveyance
+6176W002,IWSS,OPPOSITE 16 Navajo Rd Karnup,-32.4429,115.76983,Active,Conveyance
+6180W009,IWSS,281 Lake Valley Drive Lakelands,-32.47095,115.77904,Active,Conveyance
+6210W198,IWSS,9 Barringarra Rd Madora Bay,-32.47655,115.75373,Active,Conveyance
+6210W200,IWSS,14 Pismo St Madora Bay,-32.46649,115.75557,Active,Conveyance
+6210W197,IWSS,9 St Pierre Loop Meadow Spring,-32.48774,115.76425,Active,Conveyance
+6207W003,IWSS,25 South St North Dandalup,-32.52033,115.96749,Active,Conveyance
+6208W060,IWSS,NORTH YUNDERUP AT 168 CULEENUP RD,-32.5779,115.79738,Active,Conveyance
+6208W055,IWSS,29 Sunset Cir Pinjarra,-32.60603,115.85845,Active,Conveyance
+6175W008,IWSS,40 Lookout Vista Singleton,-32.43616,115.7616,Active,Conveyance
+6208W056,IWSS,22 Tanderra Pl South Yunderup,-32.58867,115.77561,Active,Conveyance
+6208W057,IWSS,19 Pegus Mndr South Yunderup ,-32.59365,115.81001,Active,Conveyance
+6122W021,IWSS,BYFORD AT 4 WOOMERA GRANGE,-32.23537,115.991,Active,Conveyance
+6125W008,IWSS,SERPENTINE AT 2 BUSHEL RD ON WALKER RD,-32.3741,115.9609,Active,Conveyance
+6148W003,IWSS,SHELLEY AT 1 LINKWATER ST,-32.02223,115.89314,Active,Conveyance
+6112W047,IWSS,21 John Street Armadale,-32.1583,116.01532,Active,Conveyance
+6112W050,IWSS,LATHWELL ST H33 Armadale,-32.13437,116.01657,Active,Conveyance
+6171W042,IWSS,Opp. 72 Ridge Bvd Baldivis Baldivis ,-32.35389,115.80595,Active,Conveyance
+6112W048,IWSS,203 Wungong Rd Brookdale,-32.17356,116.00764,Active,Conveyance
+6122W017,IWSS,19 Culham Vista Byford,-32.23938,115.98117,Active,Conveyance
+6122W016,IWSS,15 Camembert St Byford,-32.22351,116.01163,Active,Conveyance
+6125W002,IWSS,BARJADDA ST H19 BYFORD,-32.20968,115.98573,Active,Conveyance
+6155W041,IWSS,33 The Heights Canning Vale ,-32.07874,115.9101,Active,Conveyance
+6155W069,IWSS,CANNING VALE AT 7 RANGEVIEW PL,-32.08175,115.9061,Active,Conveyance
+6101W008,IWSS,EAST VICTORIA PARK AT 121 CANTERBURY TCE,-31.9911,115.89742,Active,Conveyance
 "
-6112W058",IWSS,12 MacDougal Way Harrisdale,-32.11662,115.91809,,Conveyance,,,
-6056W037,IWSS,HELENA VALLEY AT 43 GREYSTONE TCE,-31.92248,116.03175,,Conveyance,,,
-6112W051,IWSS,18 Hilarion Elbow Hilbert,-32.17820,115.99253,,Conveyance,,,
-6112W052,IWSS,24 Oaklawn St Hilbert,-32.17826,115.96507,,Conveyance,,,
-6123W004,IWSS,25 Haywire Ave Mundijong,-32.28039,116.00043,,Conveyance,,,
-6112W028,IWSS,RIVA ENT & BARCELONA  Piara Waters,-32.13877,115.92577,,Conveyance,,,
-6125W006,IWSS,SERPENTINE AT 92 RANGEVIEW LOOP,-32.37613,115.98288,,Conveyance,,,
-6125W007,IWSS,SERPENTINE AT 4 WELLARD ST,-32.36409,115.97740,,Conveyance,,,
-6112W045,IWSS,42 McCubbin Loop Seville Grove,-32.13169,115.98907,,Conveyance,,,
-6110W051,IWSS,CLEARWATER DR H22 Southern River,-32.10545,115.95802,,Conveyance,,,
-6108W020,IWSS,ROSEWOOD LANE H21 Thornlie,-32.08149,115.95092,,Conveyance,,,
-6171W043,IWSS,BALDIVIS AT 23 KEMPEANA WAY,-32.35416,115.81210,,Conveyance,,,
-6167W033,IWSS,CASUARINA ORTON RD OPP PRISON,-32.23755,115.87749,,Conveyance,,,
-6167W034,IWSS,CASUARINA AT 4 TIANA COVE,-32.23569,115.88244,,Conveyance,,,
-6167W035,IWSS,ORELIA AT 27 BERKLEY WAY,-32.23085,115.82776,,Conveyance,,,
-6171W044,IWSS,BALDIVIS AT 25 GREYGUM RIDGE,-32.35901,115.79244,,Conveyance,,,
-6164W074,IWSS,40 Barfield Rd  Hammond Park,-32.17716,115.83693,,Conveyance,,,
-6164W077,IWSS,408 Wattleup Rd Hammond Park,-32.17716,115.83693,,Conveyance,,,
-6164W026,IWSS,18 Kooyonga Crs Jandakot,-32.09785,115.85601,,Conveyance,,,
-6167W016,IWSS,KWINANA BEACH AT 1 YEATES RD,-32.23202,115.78117,,Conveyance,,,
-6163W091,IWSS,3 Darkan Ave North Coogee,-32.08323,115.75940,,Conveyance,,,
+6112W058",IWSS,12 MacDougal Way Harrisdale,-32.11662,115.91809,Active,Conveyance
+6056W037,IWSS,HELENA VALLEY AT 43 GREYSTONE TCE,-31.92248,116.03175,Active,Conveyance
+6112W051,IWSS,18 Hilarion Elbow Hilbert,-32.1782,115.99253,Active,Conveyance
+6112W052,IWSS,24 Oaklawn St Hilbert,-32.17826,115.96507,Active,Conveyance
+6123W004,IWSS,25 Haywire Ave Mundijong,-32.28039,116.00043,Active,Conveyance
+6112W028,IWSS,RIVA ENT & BARCELONA  Piara Waters,-32.13877,115.92577,Active,Conveyance
+6125W006,IWSS,SERPENTINE AT 92 RANGEVIEW LOOP,-32.37613,115.98288,Active,Conveyance
+6125W007,IWSS,SERPENTINE AT 4 WELLARD ST,-32.36409,115.9774,Active,Conveyance
+6112W045,IWSS,42 McCubbin Loop Seville Grove,-32.13169,115.98907,Active,Conveyance
+6110W051,IWSS,CLEARWATER DR H22 Southern River,-32.10545,115.95802,Active,Conveyance
+6108W020,IWSS,ROSEWOOD LANE H21 Thornlie,-32.08149,115.95092,Active,Conveyance
+6171W043,IWSS,BALDIVIS AT 23 KEMPEANA WAY,-32.35416,115.8121,Active,Conveyance
+6167W033,IWSS,CASUARINA ORTON RD OPP PRISON,-32.23755,115.87749,Active,Conveyance
+6167W034,IWSS,CASUARINA AT 4 TIANA COVE,-32.23569,115.88244,Active,Conveyance
+6167W035,IWSS,ORELIA AT 27 BERKLEY WAY,-32.23085,115.82776,Active,Conveyance
+6171W044,IWSS,BALDIVIS AT 25 GREYGUM RIDGE,-32.35901,115.79244,Active,Conveyance
+6164W074,IWSS,40 Barfield Rd  Hammond Park,-32.17716,115.83693,Active,Conveyance
+6164W077,IWSS,408 Wattleup Rd Hammond Park,-32.17716,115.83693,Active,Conveyance
+6164W026,IWSS,18 Kooyonga Crs Jandakot,-32.09785,115.85601,Active,Conveyance
+6167W016,IWSS,KWINANA BEACH AT 1 YEATES RD,-32.23202,115.78117,Active,Conveyance
+6163W091,IWSS,3 Darkan Ave North Coogee,-32.08323,115.7594,Active,Conveyance
 6164W075,IWSS,"34 Shala Way Success
-34 Marraboor Pl Success",-32.13746,115.85064,,Conveyance,,,
-6164W076,IWSS,10 Mercury Street Treeby,-32.11715,115.87290,,Conveyance,,,
-6164W078,IWSS,12 Mangrove Street Treeby,-32.11972,115.88279,,Conveyance,,,
-6164W079,IWSS,72 Sunstone Blvd Treeby,-32.11992,115.87661,,Conveyance,,,
-6167W032,IWSS,62 Honeywood Ave Wandi Wandi,-32.19380,115.86164,,Conveyance,,,
-6167W027,IWSS,39 Saltbush Street Wandi,-32.20349,115.86196,,Conveyance,,,
-6170W007,IWSS,OPP 9 WOOLCOOT Wellard,-32.25814,115.86323,,Conveyance,,,
-6170W005,IWSS,5 Wheelwright Gdns Wellard,-32.27082,115.82957,,Conveyance,,,
-6170W010,IWSS,31 BRANTWOOD TURN  Wellard,-32.27153,115.82663,,Conveyance,,,
-6164W025,IWSS,12 The Summit Yangebup,-32.11943,115.81421,,Conveyance,,,
-6142517,Level,Thomsons lake - Thomsons Lake (6142517),-32.14443,115.82909,,Conveyance,,,
-6142520,Level,Bibra Lake - Bibra Lake (6142520),-32.09130,115.82124,,Conveyance,,,
-6142522,Level,Kogalup Lake - Kogalup Lake South (6142522),-32.13775,115.83169,,Conveyance,,,
-6142523,Level,Lake Yangebup - Lake Yangebup (6142523),-32.12387,115.83158,,Conveyance,,,
-6142575,Level,Kogalup Lake - Kogalup Lake North (6142575),-32.13158,115.83160,,Conveyance,,,
-D2001015,Level,Hughes St BD - Magnet Rd CB,-32.06276,115.92916,,Conveyance,,,
-D2001017,Level,Bertram St BD - M105 (Gay St CB),-31.88087,115.86129,,Conveyance,,,
-D2001019,Level,Bayswater MD - M101 (Inlet A018 Clavering Rd),-31.91881,115.92214,,Conveyance,,,
-D2001021,Level,"Peters Place Reserve, Light Street Morley ",-31.89506,115.88880,,Conveyance,,,
-D2001023,Level,Woodbridge Creek BD - M021 (Inlet B009/Farrall Rd),-31.88485,116.03325,,Conveyance,,,
-D2001025,Level,Woodbridge Creek BD - M029 (Inlet E001/Morrison Rd CB),-31.88602,116.04573,,Conveyance,,,
-D2001027,Level,Blackadder Creek MD - U/S of A023? (Gt Nth Hwy)  try A018?,-31.87633,116.00942,,Conveyance,,,
-D2001029,Level,Kardinya BD - M080 (Frederick Balwin Pk CB),-32.05898,115.81464,,Conveyance,,,
-D2001031,Level,Bateman Road BD - M051 (Endeavour Ave CB),-32.05921,115.85186,,Conveyance,,,
-D2001033,Level,Delawney BD - M016 (Cressall Rd CB),-31.86172,115.81197,,Conveyance,,,
-D2001035,Level,Delawney BD - M017 (Whipple St CB/Inlet E018),-31.86263,115.80722,,Conveyance,,,
-D2001037,Level,Delawney BD - M018 (Ledgar Rd CB),-31.86656,115.80574,,Conveyance,,,
-D2001039,Level,Dutton Cr BD - M015 (Dutton Cr CB/Inlet F009)   ,-31.85565,115.80675,,Conveyance,,,
-D2001041,Level,Merrick Wy BD - M059 (Merrick Wy CB),-31.83397,115.78728,,Conveyance,,,
-D2001043,Level,Chapman St MD - M125 (Railway Museum East CB),-31.90875,115.94019,,Conveyance,,,
-D2001045,Level,Claisebrook MD - M011 (Smiths Lake CB),-31.93309,115.85105,,Conveyance,,,
-D2001047,Level,Powell St MD - M012 (Dog Swamp CB),-31.91038,115.84632,,Conveyance,,,
-D2001049,Level,Wellington Pde BD - M119 (Wellington Pde CB),-31.90553,115.84989,,Conveyance,,,
-D2001051,Level,Wordsworth Ave BD - M120 (Yokine Res CB),-31.90783,115.85939,,Conveyance,,,
-D2001053,Level,Cobb St BD - M107 (Cobb St CB),-31.90690,115.76871,,Conveyance,,,
-D2001055,Level,Colin Rd MD - M108 (Colin Rd CB),-31.89971,115.76670,,Conveyance,,,
-D2001057,Level,Joyce St BD - M066 (Joyce St CB),-31.89369,115.76351,,Conveyance,,,
-D2001059,Level,Abbett Park BD - M109 (Abbett Pk CB),-31.88932,115.76499,,Conveyance,,,
-D2001061,Level,Beechboro/Emu Swamp MD - M075 (Inlet A041/Bennett Springs Dr),-31.85756,115.92649,,Conveyance,,,
-D2001063,Level,Emu Swamp MD - Hillwater Prom CB/Inlet A019,-31.86129,115.93173,,Conveyance,,,
-D2001065,Level,Forrester Rd MD - Forrester Rd CB,-32.30167,115.71740,,Conveyance,,,
-D2001067,Level,Osborne Park BD - Inlet H011 (Scarborough Beach Rd),-31.90321,115.80066,,Conveyance,,,
-D2001069,Level,Mills St MD - M033 (Pilbara St CB),-31.98964,115.94404,,Conveyance,,,
-D2001071,Level,Mills St MD - M034 (Inlet A027 Mills St/Meuse Wy),-32.00132,115.93388,,Conveyance,,,
-D2001073,Level,Welshpool BD - M036 (Charles St CB),-31.99607,115.92219,,Conveyance,,,
-D2001075,Level,Welshpool BD - M053 (Ellam St East CB),-31.99608,115.91790,,Conveyance,,,
-D2001077,Level,Abernethy Rd BD - M067 (Division St CB),-31.98752,115.93773,,Conveyance,,,
-D2001079,Level,Welshpool BD - M069 (Forward St CB),-31.99188,115.91708,,Conveyance,,,
-D2001081,Level,Welshpool BD - M078 (Alexandra Pl CB),-32.00481,115.92576,,Conveyance,,,
-D2001083,Level,Mills St MD - M035 (MH A019/Sevenoaks St) - was GIS041 changed location,-32.00290,115.93256,,Conveyance,,,
-D2001085,Level,Kalgan Rd BD - M081 (Inlet E003/10 Tilli Pl),-32.00083,115.93383,,Conveyance,,,
-D2001087,Level,Neerigen Brook Nth MD - Inlet E023 (Next to 98 Girrawheen St),-32.14941,115.98855,,Conveyance,,,
-D2001089,Level,Crumpet Creek - M077 (521 Old Dundas Rd),-31.97339,115.98864,,Conveyance,,,
-D2001091,Level,Second Rd MD - Kuhl Park CB (Inlet A016),-32.12261,115.99777,,Conveyance,,,
-D2001093,Level,Star St BD - M061 (Star St CB) ,-31.98384,115.92538,,Conveyance,,,
-D2001095,Level,Cloverdale BD - M079 (Faulkner Pk Sth CB),-31.96208,115.93505,,Conveyance,,,
-D2001097,Level,Aberdare Rd BD - M004 (Aberdare Rd CB),-31.96504,115.81424,,Conveyance,,,
-D2001099,Level,Subiaco MD - M006 (Claypan CB/Inlet A021),-31.95261,115.80700,,Conveyance,,,
-D2001101,Level,Victoria Park MD - Jupiter St CB,-31.98669,115.91929,,Conveyance,,,
-D2001103,Level,Victoria Park MD - Somerset St CB,-31.98579,115.91383,,Conveyance,,,
-D2001105,Level,Wembley MD - M013 (Mabel Talbot CB),-31.94447,115.81034,,Conveyance,,,
-D2001107,Level,Westfield Park MD - M068 (Hemmingway Dr South CB),-32.10817,116.00791,,Conveyance,,,
-D2001109,Level,Wharf Street MD - Wharf St CB,-32.01615,115.93343,,Conveyance,,,
-D2001111,Level,Williams Rd MD - Inlet A026 (Braemore St/Toorak Rd),-32.14034,115.99799,,Conveyance,,,
-D2001113,Level,Malaga Dr BD - Cogla St CB,-31.85940,115.90332,,Conveyance,,,
-D2001115,Level,Black Creek BD - Banksia Rd CB,-31.99466,115.96450,,Conveyance,,,
-D2001117,Level,Treasure Rd BD - Treasure Rd CB,-31.99402,115.95026,,Conveyance,,,
-D2001119,Level,Woodlupine Brook BD - William St Sth CB (Inlet X017),-32.00842,115.97375,,Conveyance,,,
-D2001121,Level,Woodlupine Brook BD - Hale Rd Culvert (Inlet D070),-31.98515,116.01731,,Conveyance,,,
-D2001123,Level,Yule Brook MD - M038 (Inlet A013/Railway Pde),-32.02801,115.96107,,Conveyance,,,
-D2001125,Level,Yule Brook MD - M041 (32 Ladywell St),-32.03256,115.95882,,Conveyance,,,
-D2001127,Level,Woodlupine Brook BD - M049 (Inlet D042/Cypress Rd),-31.99056,115.99747,,Conveyance,,,
-D2001162,Level,Essex St MD - MH A010 (Packenham St/Nairn St),-32.05637,115.74556,,Conveyance,,,
-D2001164,Level,Essex St MD - MH A018 (Holdsworth St/Parry St),-32.05393,115.75175,,Conveyance,,,
-D2001166,Level,Howard St MD - MH A003 (14 Howard St),-32.05989,115.75017,,Conveyance,,,
-D2001184,Level,Cobb St BD - MH E002 (12 Colin Rd),-31.90019,115.76684,,Conveyance,,,
-D2001186,Level,Bayview Tce MD - MH A006 (12 Princess Rd),-31.98647,115.78296,,Conveyance,,,
-D2001188,Level,Wellington St BD - MH C006 (M117A/Pier St),-31.95211,115.86410,,Conveyance,,,
-D2001190,Level,Maylands-Inglewood MD - MH A020 (Central Ave/John St),-31.92617,115.88350,,Conveyance,,,
-D2001192,Level,Milligan St BD - MH F005 ,-31.94884,115.85374,,Conveyance,,,
-D2001212,Level,Bannister Creek MD - Inlet A003 (Bursaria Cr/Hybanthus Rd),-32.03797,115.91745,,Conveyance,,,
-D2001215,Level,Deanmore SQ BD - M126 (Deanmore Sq CB/Outlet D005),-31.89692,115.76482,,Conveyance,,,
-D2001217,Level,Durban St BD - Inlet C007 (21 Durban St),-31.94459,115.93431,,Conveyance,,,
-D2001218,Level,Helm St MD - Inlet A009 (31 Helm St),-32.05646,115.99667,,Conveyance,,,
-D2001221,Level,Herdsman Inner Ring Drain - Herdsman Wildlife Centre,-31.92863,115.80523,,Conveyance,,,
-D2001222,Level,Mills St MD - MH A002 (45 Fern Rd),-32.01756,115.91929,,Conveyance,,,
-D2001227,Level,Neerigen Brook Sth MD - Inlet B036 (31 Dawson St),-32.15535,115.99919,,Conveyance,,,
-D2001229,Level,Osborne Park BD - Inlet H017 (51 Telford Cres),-31.89475,115.81192,,Conveyance,,,
-D2001230,Level,Rhine Park BD - Inlet F002 (Morrison Rd/Marboro Rd),-31.88617,116.04656,,Conveyance,,,
-D2001232,Level,South Belmont MD - Inlet A014 (59 Newlyn St),-31.95546,115.92256,,Conveyance,,,
-D2001234,Level,Watton Park BD - Watton Park North CB (E005) M027,-31.88919,116.04902,,Conveyance,,,
-D2001236,Level,Widgee Road BD - Outlet B065 (58 Ivory St),-31.87016,115.89621,,Conveyance,,,
-D2001239,Level,Local Authority  - Plume Gdns CB (LA) (outlet side),-31.86019,115.94049,,Conveyance,,,
-D2001247,Level,Hughes St BD - M043 (MH B024),-32.06018,115.93067,,Conveyance,,,
-D2001249,Level,Fitzgerald St BD - MH X003 (Perth Arena),-31.94848,115.85084,,Conveyance,,,
-D2001251,Level,Mount Lawley MD - MH A016 (23 Barlee St),-31.93688,115.87320,,Conveyance,,,
-D2001255,Level,Subiaco MD - MH A043 (142 Churchill Av),-31.94791,115.83098,,Conveyance,,,
-D2001259,Level,Essex St MD - MH A004 (The Esplanade Park),-32.05806,115.74605,,Conveyance,,,
-D2001261,Level,Osborne Park BD - Node OSH11BLA1 (In Oswald St),-31.90007,115.80122,,Conveyance,,,
-D2001263,Level,Malaga Dr BD - MH F012 (8 Meka St),-31.86415,115.90436,,Conveyance,,,
-D2001265,Level,Lacey St MD - Bickley Rd CB (near outlet side),-32.02354,115.94996,,Conveyance,,,
-D2001267,Level,Lefroy Rd MD  - MH X003 (15 Little Lefroy Rd),-32.06774,115.75322,,Conveyance,,,
-D2001269,Level,Balgay BD - M064 (Outlet G039/Sangiorgio Ct),-31.91036,115.82190,,Conveyance,,,
-D2001271,Level,Essex St MD - MH A023 (Parry St/Ellen St),-32.05204,115.75095,,Conveyance,,,
-D2001273,Level,Cliff St MD - MH A005 (Cliff St/Phiillimore St),-32.05499,115.74210,,Conveyance,,,
-D2001275,Level,Hyde Park BD - MH H006 (William St/Lincoln St),-31.93946,115.86453,,Conveyance,,,
-D2001277,Level,Bay View Tce MD - MH A011 (Bayview Tce/Park Lane),-31.98520,115.78144,,Conveyance,,,
-D2001279,Level,Bay View Tce MD - MH A019 (356 Stirling Hwy),-31.98533,115.77513,,Conveyance,,,
-D2001281,Level,Hubert St BD - MH B004 (Daly St/KatoombaPl),-31.94564,115.92935,,Conveyance,,,
-D2001283,Level,King William St BD - M071 (MH B013/90 King William St),-31.92360,115.91737,,Conveyance,,,
-D2001285,Level,Browns Lake East BD - MH D012 (150/152 Russell St),-31.90224,115.90147,,Conveyance,,,
-D2001287,Level,King William St BD - M072 (MH B016/60 King William St),-31.92226,115.91580,,Conveyance,,,
-D2001289,Level,Hutton St BD - Inlet J004 (Mitchell Fwy),-31.89999,115.81851,,Conveyance,,,
-D2001291,Level,Osborne Park BD - Inlet H008 ((Pearson St),-31.90907,115.79964,,Conveyance,,,
-D2001293,Level,Osborne Park BD - Node OSH11B (near Oswald St),-31.90057,115.80263,,Conveyance,,,
-D2001295,Level,Lacey St MD - Lacey St CB (near outlet side),-32.01558,115.95756,,Conveyance,,,
-D2001297,Level,Beryl St BD - MH C013 (Beryl St/Campion Ave),-31.87747,115.82970,,Conveyance,,,
-D2001299,Level,Essex St MD - MH A027 (29 Ellen St),-32.05159,115.75196,,Conveyance,,,
-D2001301,Level,Hubert St BD - MH B019 (5 Fairbrother St),-31.95055,115.92990,,Conveyance,,,
-D2001303,Level,Claisebrook MD - M008 (MH A055/35 Eton St) ,-31.92325,115.84846,,Conveyance,,,
-D2001305,Level,Claisebrook MD - MH A019 (Stuart St/Lake St),-31.94351,115.85956,,Conveyance,,,
-D2001307,Level,Subiaco MD - M007 (MH A037-Rowland St/Forrest Wlk),-31.94794,115.82320,,Conveyance,,,
-D2001309,Level,Subiaco MD - MH A040 (245 Churchill Ave),-31.94794,115.82761,,Conveyance,,,
-D2001311,Level,Kings Park BD - MH J005 (44 Bedford St),-31.95091,115.83138,,Conveyance,,,
-D2001313,Level,Malaga Dr BD - Glyde Ct CB,-31.86536,115.90445,,Conveyance,,,
-D2001315,Level,Railway Parade BD - MH B005 (Railway Pde/Almondbury Rd),-31.93592,115.87946,,Conveyance,,,
-D2001317,Level,Seventh Ave BD - MH D003 (39 Seventh Ave),-31.93155,115.89339,,Conveyance,,,
-D2001319,Level,Packham BD - Causeway CB (Fawcett Rd),-32.12943,115.77679,,Conveyance,,,
-D2001321,Level,Packham BD - Market Garden Swamp (Troode St),-32.12008,115.77917,,Conveyance,,,
-D2001323,Level,Elanora Dr BD - Cuthbertson Reserve Lake (Elanora Dr),-32.29339,115.76698,,Conveyance,,,
-D2001325,Level,Rundle St MD - MH A040,-32.13780,116.01477,,Conveyance,,,
-D2001327,Level,Denny Av BD - B015(adjacent to Kelmscott Baptist Church),-32.11809,116.01172,,Conveyance,,,
-D2001333,Level,South St MD - A004 (South St/South Tce),-32.06368,115.75246,,Conveyance,,,
-D2001336,Level,Bennett St MD - A004 (Bennett St/Terrace Rd),-31.96117,115.87054,,Conveyance,,,
-D2001473,Level,Subiaco MD - X006 (Churchill Ave),-31.94789,115.82753,,Conveyance,,,
-D2001855,Level,Crawley BD- C007 (Clifton St Nedlands),-31.97676,115.81171,,Conveyance,,,
+34 Marraboor Pl Success",-32.13746,115.85064,Active,Conveyance
+6164W076,IWSS,10 Mercury Street Treeby,-32.11715,115.8729,Active,Conveyance
+6164W078,IWSS,12 Mangrove Street Treeby,-32.11972,115.88279,Active,Conveyance
+6164W079,IWSS,72 Sunstone Blvd Treeby,-32.11992,115.87661,Active,Conveyance
+6167W032,IWSS,62 Honeywood Ave Wandi Wandi,-32.1938,115.86164,Active,Conveyance
+6167W027,IWSS,39 Saltbush Street Wandi,-32.20349,115.86196,Active,Conveyance
+6170W007,IWSS,OPP 9 WOOLCOOT Wellard,-32.25814,115.86323,Active,Conveyance
+6170W005,IWSS,5 Wheelwright Gdns Wellard,-32.27082,115.82957,Active,Conveyance
+6170W010,IWSS,31 BRANTWOOD TURN  Wellard,-32.27153,115.82663,Inactive,Conveyance
+6164W025,IWSS,12 The Summit Yangebup,-32.11943,115.81421,fault,Conveyance
+6142517,Level,Thomsons lake - Thomsons Lake (6142517),-32.14443,115.82909,Active,Conveyance
+6142520,Level,Bibra Lake - Bibra Lake (6142520),-32.0913,115.82124,Active,Conveyance
+6142522,Level,Kogalup Lake - Kogalup Lake South (6142522),-32.13775,115.83169,Active,Conveyance
+6142523,Level,Lake Yangebup - Lake Yangebup (6142523),-32.12387,115.83158,Active,Conveyance
+6142575,Level,Kogalup Lake - Kogalup Lake North (6142575),-32.13158,115.8316,Active,Conveyance
+D2001015,Level,Hughes St BD - Magnet Rd CB,-32.06276,115.92916,Active,Conveyance
+D2001017,Level,Bertram St BD - M105 (Gay St CB),-31.88087,115.86129,Active,Conveyance
+D2001019,Level,Bayswater MD - M101 (Inlet A018 Clavering Rd),-31.91881,115.92214,Active,Conveyance
+D2001021,Level,"Peters Place Reserve, Light Street Morley ",-31.89506,115.8888,Active,Conveyance
+D2001023,Level,Woodbridge Creek BD - M021 (Inlet B009/Farrall Rd),-31.88485,116.03325,Active,Conveyance
+D2001025,Level,Woodbridge Creek BD - M029 (Inlet E001/Morrison Rd CB),-31.88602,116.04573,Active,Conveyance
+D2001027,Level,Blackadder Creek MD - U/S of A023? (Gt Nth Hwy)  try A018?,-31.87633,116.00942,Active,Conveyance
+D2001029,Level,Kardinya BD - M080 (Frederick Balwin Pk CB),-32.05898,115.81464,Active,Conveyance
+D2001031,Level,Bateman Road BD - M051 (Endeavour Ave CB),-32.05921,115.85186,Active,Conveyance
+D2001033,Level,Delawney BD - M016 (Cressall Rd CB),-31.86172,115.81197,Active,Conveyance
+D2001035,Level,Delawney BD - M017 (Whipple St CB/Inlet E018),-31.86263,115.80722,Active,Conveyance
+D2001037,Level,Delawney BD - M018 (Ledgar Rd CB),-31.86656,115.80574,Active,Conveyance
+D2001039,Level,Dutton Cr BD - M015 (Dutton Cr CB/Inlet F009)   ,-31.85565,115.80675,Active,Conveyance
+D2001041,Level,Merrick Wy BD - M059 (Merrick Wy CB),-31.83397,115.78728,Active,Conveyance
+D2001043,Level,Chapman St MD - M125 (Railway Museum East CB),-31.90875,115.94019,Active,Conveyance
+D2001045,Level,Claisebrook MD - M011 (Smiths Lake CB),-31.93309,115.85105,Active,Conveyance
+D2001047,Level,Powell St MD - M012 (Dog Swamp CB),-31.91038,115.84632,Active,Conveyance
+D2001049,Level,Wellington Pde BD - M119 (Wellington Pde CB),-31.90553,115.84989,Active,Conveyance
+D2001051,Level,Wordsworth Ave BD - M120 (Yokine Res CB),-31.90783,115.85939,Active,Conveyance
+D2001053,Level,Cobb St BD - M107 (Cobb St CB),-31.9069,115.76871,Active,Conveyance
+D2001055,Level,Colin Rd MD - M108 (Colin Rd CB),-31.89971,115.7667,Active,Conveyance
+D2001057,Level,Joyce St BD - M066 (Joyce St CB),-31.89369,115.76351,Active,Conveyance
+D2001059,Level,Abbett Park BD - M109 (Abbett Pk CB),-31.88932,115.76499,Active,Conveyance
+D2001061,Level,Beechboro/Emu Swamp MD - M075 (Inlet A041/Bennett Springs Dr),-31.85756,115.92649,Active,Conveyance
+D2001063,Level,Emu Swamp MD - Hillwater Prom CB/Inlet A019,-31.86129,115.93173,Active,Conveyance
+D2001065,Level,Forrester Rd MD - Forrester Rd CB,-32.30167,115.7174,Active,Conveyance
+D2001067,Level,Osborne Park BD - Inlet H011 (Scarborough Beach Rd),-31.90321,115.80066,Active,Conveyance
+D2001069,Level,Mills St MD - M033 (Pilbara St CB),-31.98964,115.94404,Active,Conveyance
+D2001071,Level,Mills St MD - M034 (Inlet A027 Mills St/Meuse Wy),-32.00132,115.93388,Active,Conveyance
+D2001073,Level,Welshpool BD - M036 (Charles St CB),-31.99607,115.92219,Active,Conveyance
+D2001075,Level,Welshpool BD - M053 (Ellam St East CB),-31.99608,115.9179,Active,Conveyance
+D2001077,Level,Abernethy Rd BD - M067 (Division St CB),-31.98752,115.93773,Active,Conveyance
+D2001079,Level,Welshpool BD - M069 (Forward St CB),-31.99188,115.91708,Active,Conveyance
+D2001081,Level,Welshpool BD - M078 (Alexandra Pl CB),-32.00481,115.92576,Active,Conveyance
+D2001083,Level,Mills St MD - M035 (MH A019/Sevenoaks St) - was GIS041 changed location,-32.0029,115.93256,Active,Conveyance
+D2001085,Level,Kalgan Rd BD - M081 (Inlet E003/10 Tilli Pl),-32.00083,115.93383,Active,Conveyance
+D2001087,Level,Neerigen Brook Nth MD - Inlet E023 (Next to 98 Girrawheen St),-32.14941,115.98855,Active,Conveyance
+D2001089,Level,Crumpet Creek - M077 (521 Old Dundas Rd),-31.97339,115.98864,Inactive,Conveyance
+D2001091,Level,Second Rd MD - Kuhl Park CB (Inlet A016),-32.12261,115.99777,fault,Conveyance
+D2001093,Level,Star St BD - M061 (Star St CB) ,-31.98384,115.92538,Active,Conveyance
+D2001095,Level,Cloverdale BD - M079 (Faulkner Pk Sth CB),-31.96208,115.93505,Active,Conveyance
+D2001097,Level,Aberdare Rd BD - M004 (Aberdare Rd CB),-31.96504,115.81424,Active,Conveyance
+D2001099,Level,Subiaco MD - M006 (Claypan CB/Inlet A021),-31.95261,115.807,Active,Conveyance
+D2001101,Level,Victoria Park MD - Jupiter St CB,-31.98669,115.91929,Active,Conveyance
+D2001103,Level,Victoria Park MD - Somerset St CB,-31.98579,115.91383,Active,Conveyance
+D2001105,Level,Wembley MD - M013 (Mabel Talbot CB),-31.94447,115.81034,Active,Conveyance
+D2001107,Level,Westfield Park MD - M068 (Hemmingway Dr South CB),-32.10817,116.00791,Active,Conveyance
+D2001109,Level,Wharf Street MD - Wharf St CB,-32.01615,115.93343,Active,Conveyance
+D2001111,Level,Williams Rd MD - Inlet A026 (Braemore St/Toorak Rd),-32.14034,115.99799,Active,Conveyance
+D2001113,Level,Malaga Dr BD - Cogla St CB,-31.8594,115.90332,Active,Conveyance
+D2001115,Level,Black Creek BD - Banksia Rd CB,-31.99466,115.9645,Active,Conveyance
+D2001117,Level,Treasure Rd BD - Treasure Rd CB,-31.99402,115.95026,Active,Conveyance
+D2001119,Level,Woodlupine Brook BD - William St Sth CB (Inlet X017),-32.00842,115.97375,Active,Conveyance
+D2001121,Level,Woodlupine Brook BD - Hale Rd Culvert (Inlet D070),-31.98515,116.01731,Active,Conveyance
+D2001123,Level,Yule Brook MD - M038 (Inlet A013/Railway Pde),-32.02801,115.96107,Active,Conveyance
+D2001125,Level,Yule Brook MD - M041 (32 Ladywell St),-32.03256,115.95882,Active,Conveyance
+D2001127,Level,Woodlupine Brook BD - M049 (Inlet D042/Cypress Rd),-31.99056,115.99747,Active,Conveyance
+D2001162,Level,Essex St MD - MH A010 (Packenham St/Nairn St),-32.05637,115.74556,Active,Conveyance
+D2001164,Level,Essex St MD - MH A018 (Holdsworth St/Parry St),-32.05393,115.75175,Active,Conveyance
+D2001166,Level,Howard St MD - MH A003 (14 Howard St),-32.05989,115.75017,Inactive,Conveyance
+D2001184,Level,Cobb St BD - MH E002 (12 Colin Rd),-31.90019,115.76684,fault,Conveyance
+D2001186,Level,Bayview Tce MD - MH A006 (12 Princess Rd),-31.98647,115.78296,Active,Conveyance
+D2001188,Level,Wellington St BD - MH C006 (M117A/Pier St),-31.95211,115.8641,Active,Conveyance
+D2001190,Level,Maylands-Inglewood MD - MH A020 (Central Ave/John St),-31.92617,115.8835,Active,Conveyance
+D2001192,Level,Milligan St BD - MH F005 ,-31.94884,115.85374,Active,Conveyance
+D2001212,Level,Bannister Creek MD - Inlet A003 (Bursaria Cr/Hybanthus Rd),-32.03797,115.91745,Active,Conveyance
+D2001215,Level,Deanmore SQ BD - M126 (Deanmore Sq CB/Outlet D005),-31.89692,115.76482,Active,Conveyance
+D2001217,Level,Durban St BD - Inlet C007 (21 Durban St),-31.94459,115.93431,Active,Conveyance
+D2001218,Level,Helm St MD - Inlet A009 (31 Helm St),-32.05646,115.99667,Active,Conveyance
+D2001221,Level,Herdsman Inner Ring Drain - Herdsman Wildlife Centre,-31.92863,115.80523,Active,Conveyance
+D2001222,Level,Mills St MD - MH A002 (45 Fern Rd),-32.01756,115.91929,Active,Conveyance
+D2001227,Level,Neerigen Brook Sth MD - Inlet B036 (31 Dawson St),-32.15535,115.99919,Active,Conveyance
+D2001229,Level,Osborne Park BD - Inlet H017 (51 Telford Cres),-31.89475,115.81192,Active,Conveyance
+D2001230,Level,Rhine Park BD - Inlet F002 (Morrison Rd/Marboro Rd),-31.88617,116.04656,Active,Conveyance
+D2001232,Level,South Belmont MD - Inlet A014 (59 Newlyn St),-31.95546,115.92256,Active,Conveyance
+D2001234,Level,Watton Park BD - Watton Park North CB (E005) M027,-31.88919,116.04902,Active,Conveyance
+D2001236,Level,Widgee Road BD - Outlet B065 (58 Ivory St),-31.87016,115.89621,Active,Conveyance
+D2001239,Level,Local Authority  - Plume Gdns CB (LA) (outlet side),-31.86019,115.94049,Active,Conveyance
+D2001247,Level,Hughes St BD - M043 (MH B024),-32.06018,115.93067,Active,Conveyance
+D2001249,Level,Fitzgerald St BD - MH X003 (Perth Arena),-31.94848,115.85084,Active,Conveyance
+D2001251,Level,Mount Lawley MD - MH A016 (23 Barlee St),-31.93688,115.8732,Inactive,Conveyance
+D2001255,Level,Subiaco MD - MH A043 (142 Churchill Av),-31.94791,115.83098,fault,Conveyance
+D2001259,Level,Essex St MD - MH A004 (The Esplanade Park),-32.05806,115.74605,Active,Conveyance
+D2001261,Level,Osborne Park BD - Node OSH11BLA1 (In Oswald St),-31.90007,115.80122,Active,Conveyance
+D2001263,Level,Malaga Dr BD - MH F012 (8 Meka St),-31.86415,115.90436,Active,Conveyance
+D2001265,Level,Lacey St MD - Bickley Rd CB (near outlet side),-32.02354,115.94996,Active,Conveyance
+D2001267,Level,Lefroy Rd MD  - MH X003 (15 Little Lefroy Rd),-32.06774,115.75322,Active,Conveyance
+D2001269,Level,Balgay BD - M064 (Outlet G039/Sangiorgio Ct),-31.91036,115.8219,Active,Conveyance
+D2001271,Level,Essex St MD - MH A023 (Parry St/Ellen St),-32.05204,115.75095,Active,Conveyance
+D2001273,Level,Cliff St MD - MH A005 (Cliff St/Phiillimore St),-32.05499,115.7421,Active,Conveyance
+D2001275,Level,Hyde Park BD - MH H006 (William St/Lincoln St),-31.93946,115.86453,Active,Conveyance
+D2001277,Level,Bay View Tce MD - MH A011 (Bayview Tce/Park Lane),-31.9852,115.78144,Active,Conveyance
+D2001279,Level,Bay View Tce MD - MH A019 (356 Stirling Hwy),-31.98533,115.77513,Active,Conveyance
+D2001281,Level,Hubert St BD - MH B004 (Daly St/KatoombaPl),-31.94564,115.92935,Active,Conveyance
+D2001283,Level,King William St BD - M071 (MH B013/90 King William St),-31.9236,115.91737,Active,Conveyance
+D2001285,Level,Browns Lake East BD - MH D012 (150/152 Russell St),-31.90224,115.90147,Active,Conveyance
+D2001287,Level,King William St BD - M072 (MH B016/60 King William St),-31.92226,115.9158,Active,Conveyance
+D2001289,Level,Hutton St BD - Inlet J004 (Mitchell Fwy),-31.89999,115.81851,Active,Conveyance
+D2001291,Level,Osborne Park BD - Inlet H008 ((Pearson St),-31.90907,115.79964,Active,Conveyance
+D2001293,Level,Osborne Park BD - Node OSH11B (near Oswald St),-31.90057,115.80263,Active,Conveyance
+D2001295,Level,Lacey St MD - Lacey St CB (near outlet side),-32.01558,115.95756,Active,Conveyance
+D2001297,Level,Beryl St BD - MH C013 (Beryl St/Campion Ave),-31.87747,115.8297,Inactive,Conveyance
+D2001299,Level,Essex St MD - MH A027 (29 Ellen St),-32.05159,115.75196,fault,Conveyance
+D2001301,Level,Hubert St BD - MH B019 (5 Fairbrother St),-31.95055,115.9299,Active,Conveyance
+D2001303,Level,Claisebrook MD - M008 (MH A055/35 Eton St) ,-31.92325,115.84846,Active,Conveyance
+D2001305,Level,Claisebrook MD - MH A019 (Stuart St/Lake St),-31.94351,115.85956,Active,Conveyance
+D2001307,Level,Subiaco MD - M007 (MH A037-Rowland St/Forrest Wlk),-31.94794,115.8232,Active,Conveyance
+D2001309,Level,Subiaco MD - MH A040 (245 Churchill Ave),-31.94794,115.82761,Active,Conveyance
+D2001311,Level,Kings Park BD - MH J005 (44 Bedford St),-31.95091,115.83138,Active,Conveyance
+D2001313,Level,Malaga Dr BD - Glyde Ct CB,-31.86536,115.90445,Active,Conveyance
+D2001315,Level,Railway Parade BD - MH B005 (Railway Pde/Almondbury Rd),-31.93592,115.87946,Active,Conveyance
+D2001317,Level,Seventh Ave BD - MH D003 (39 Seventh Ave),-31.93155,115.89339,Active,Conveyance
+D2001319,Level,Packham BD - Causeway CB (Fawcett Rd),-32.12943,115.77679,Active,Conveyance
+D2001321,Level,Packham BD - Market Garden Swamp (Troode St),-32.12008,115.77917,Active,Conveyance
+D2001323,Level,Elanora Dr BD - Cuthbertson Reserve Lake (Elanora Dr),-32.29339,115.76698,Active,Conveyance
+D2001325,Level,Rundle St MD - MH A040,-32.1378,116.01477,Active,Conveyance
+D2001327,Level,Denny Av BD - B015(adjacent to Kelmscott Baptist Church),-32.11809,116.01172,Active,Conveyance
+D2001333,Level,South St MD - A004 (South St/South Tce),-32.06368,115.75246,Active,Conveyance
+D2001336,Level,Bennett St MD - A004 (Bennett St/Terrace Rd),-31.96117,115.87054,Active,Conveyance
+D2001473,Level,Subiaco MD - X006 (Churchill Ave),-31.94789,115.82753,Active,Conveyance
+D2001855,Level,Crawley BD- C007 (Clifton St Nedlands),-31.97676,115.81171,Active,Conveyance

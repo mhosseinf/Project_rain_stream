@@ -4,7 +4,7 @@ var alldata = {
     "StationId": "Rain_gauge",
     "lat": -31.82423,
     "lon": 115.87203,
-    "Elev": 39.0,
+    "status": "Active",
     "address": "BALLAJURA DRAIN AT BALLAJURA",
     "team": "Catchment & Environments"
   },
@@ -13,7 +13,7 @@ var alldata = {
     "StationId": "Rain_gauge",
     "lat": -31.8914,
     "lon": 116.05243,
-    "Elev": 48.0,
+    "status": "Active",
     "address": "WOODBRIDGE CREEK AT BROWN PARK (P1)",
     "team": "Catchment & Environments"
   },
@@ -22,7 +22,7 @@ var alldata = {
     "StationId": "Rain_gauge",
     "lat": -32.00513,
     "lon": 116.06026,
-    "Elev": 267.0,
+    "status": "Active",
     "address": "LESMURDIE BROOK  AT ORANGEDALE ROAD (P9) ",
     "team": "Catchment & Environments"
   },
@@ -31,7 +31,7 @@ var alldata = {
     "StationId": "Rain_gauge",
     "lat": -31.94756,
     "lon": 116.06026,
-    "Elev": 267.0,
+    "status": "Active",
     "address": "POISON GULLY AT MAIDA VALE (P6)",
     "team": "Catchment & Environments"
   },
@@ -40,7 +40,7 @@ var alldata = {
     "StationId": "Rain_gauge",
     "lat": -31.88917,
     "lon": 115.88889,
-    "Elev": 24.0,
+    "status": "Active",
     "address": "LIGHT ST B.D. AT MORLEY ",
     "team": "Catchment & Environments"
   },
@@ -49,7 +49,7 @@ var alldata = {
     "StationId": "Rain_gauge",
     "lat": -32.04753,
     "lon": 115.84215,
-    "Elev": 20.0,
+    "status": "Active",
     "address": "BOORAGOON LAKE INFLOW  AT PINEY LAKES RESERVE ",
     "team": "Catchment & Environments"
   },
@@ -58,7 +58,7 @@ var alldata = {
     "StationId": "Rain_gauge",
     "lat": -32.11757,
     "lon": 115.77916,
-    "Elev": 2.0,
+    "status": "Inactive",
     "address": "MARKET GARDEN SWAMPS AT PACKHAM 1B DRAIN ",
     "team": "Catchment & Environments"
   },
@@ -67,7 +67,7 @@ var alldata = {
     "StationId": "Rain_gauge",
     "lat": -32.0558,
     "lon": 115.75392,
-    "Elev": 20.0,
+    "status": "fault",
     "address": "ESSEX ST MD AT FREMANTLE JAIL ",
     "team": "Catchment & Environments"
   },
@@ -76,7 +76,7 @@ var alldata = {
     "StationId": "Rain_gauge",
     "lat": -32.28389,
     "lon": 115.76167,
-    "Elev": 8.0,
+    "status": "Active",
     "address": "ROCKINGHAM MAIN DRAIN AT WENDO COURT",
     "team": "Catchment & Environments"
   },
@@ -85,7 +85,7 @@ var alldata = {
     "StationId": "Rain_gauge",
     "lat": -31.89972,
     "lon": 115.76667,
-    "Elev": 3.0,
+    "status": "Active",
     "address": "COLIN RD MAIN DRAIN AT COLIN RD COMP BASIN ",
     "team": "Catchment & Environments"
   },
@@ -94,7 +94,7 @@ var alldata = {
     "StationId": "Rain_gauge",
     "lat": -32.04167,
     "lon": 115.9775,
-    "Elev": 7.0,
+    "status": "Active",
     "address": "BICKLEY BROOK AT AUSTIN AVENUE (P10) ",
     "team": "Catchment & Environments"
   },
@@ -103,7 +103,7 @@ var alldata = {
     "StationId": "Rain_gauge",
     "lat": -32.00361,
     "lon": 115.97694,
-    "Elev": 13.0,
+    "status": "Active",
     "address": "WOODLUPINE BROOK AT WELSHPOOL (P8) ",
     "team": "Catchment & Environments"
   },
@@ -112,7 +112,7 @@ var alldata = {
     "StationId": "Rain_gauge",
     "lat": -32.14961,
     "lon": 116.0206,
-    "Elev": 63.0,
+    "status": "Active",
     "address": "NEERIGEN BROOK AT ARMADALE (P5)",
     "team": "Catchment & Environments"
   },
@@ -121,7 +121,7 @@ var alldata = {
     "StationId": "Rain_gauge",
     "lat": -31.99611,
     "lon": 115.9175,
-    "Elev": 8.0,
+    "status": "Active",
     "address": "MILLS ST MAIN DRAIN AT ELLAM ST EAST COMPENSATING BASIN",
     "team": "Catchment & Environments"
   },
@@ -130,7 +130,7 @@ var alldata = {
     "StationId": "Rain_gauge",
     "lat": -31.95803,
     "lon": 115.84148,
-    "Elev": 73.0,
+    "status": "Active",
     "address": "MT ELIZA FRASER AV KINGS PARK",
     "team": "Catchment & Environments"
   },
@@ -139,7 +139,7 @@ var alldata = {
     "StationId": "GSTN",
     "lat": -31.95366,
     "lon": 116.00671,
-    "Elev": 40.0,
+    "status": "Active",
     "address": "POISON GULLY CREEK AT LITTLEFIELD RD",
     "team": "Catchment & Environments"
   },
@@ -148,7 +148,7 @@ var alldata = {
     "StationId": "GSTN",
     "lat": -32.02528,
     "lon": 115.96722,
-    "Elev": 5.0,
+    "status": "Active",
     "address": "YULE BROOK MAIN DRAIN AT BRIXTON STREET",
     "team": "Catchment & Environments"
   },
@@ -157,7 +157,7 @@ var alldata = {
     "StationId": "GSTN",
     "lat": -32.01644,
     "lon": 115.91949,
-    "Elev": 4.0,
+    "status": "Inactive",
     "address": "MILL ST MAIN DRAIN AT PALM PLACE",
     "team": "Catchment & Environments"
   },
@@ -166,7 +166,7 @@ var alldata = {
     "StationId": "GSTN",
     "lat": -32.15,
     "lon": 116.01083,
-    "Elev": 52.0,
+    "status": "fault",
     "address": "NEERIGEN BROOK MAIN DRAIN AT ABBEY ROAD",
     "team": "Catchment & Environments"
   },
@@ -175,7 +175,7 @@ var alldata = {
     "StationId": "GSTN",
     "lat": -31.939,
     "lon": 115.87895,
-    "Elev": 0.0,
+    "status": "Active",
     "address": "MT LAWLEY MAIN DRAIN AT MT LAWLEY",
     "team": "Catchment & Environments"
   },
@@ -184,7 +184,7 @@ var alldata = {
     "StationId": "GSTN",
     "lat": -31.99872,
     "lon": 115.98939,
-    "Elev": 18.0,
+    "status": "Active",
     "address": "WOODLUPINE BROOK AT HARTFIELD PARK",
     "team": "Catchment & Environments"
   },
@@ -193,7 +193,7 @@ var alldata = {
     "StationId": "GSTN",
     "lat": -32.04306,
     "lon": 115.9762,
-    "Elev": 7.0,
+    "status": "Active",
     "address": "BICKLEY BROOK MAIN DRAIN AT AUSTIN AVE",
     "team": "Catchment & Environments"
   },
@@ -202,7 +202,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.86117,
     "lon": 116.27796,
-    "Elev": NaN,
+    "status": "Active",
     "address": "163 Willcox St Chidlow",
     "team": "Conveyance"
   },
@@ -211,7 +211,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.90005,
     "lon": 115.97432,
-    "Elev": NaN,
+    "status": "Active",
     "address": "HUBERT ST H20 GUILDFORD",
     "team": "Conveyance"
   },
@@ -220,7 +220,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.83663,
     "lon": 116.03753,
-    "Elev": NaN,
+    "status": "Active",
     "address": "179 Gugeri Rd Herne Hill",
     "team": "Conveyance"
   },
@@ -229,7 +229,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.91377,
     "lon": 116.13303,
-    "Elev": NaN,
+    "status": "Active",
     "address": "100 THORNBILL PL Mahogany Creek",
     "team": "Conveyance"
   },
@@ -238,7 +238,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.86654,
     "lon": 116.22089,
-    "Elev": NaN,
+    "status": "Active",
     "address": "9 Buckland Gr Mt Helena",
     "team": "Conveyance"
   },
@@ -247,7 +247,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.87286,
     "lon": 116.14739,
-    "Elev": NaN,
+    "status": "Active",
     "address": "20 Vista Dr Parkerville",
     "team": "Conveyance"
   },
@@ -256,7 +256,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.88742,
     "lon": 116.22292,
-    "Elev": NaN,
+    "status": "Active",
     "address": "660 LANCE ST Sawyers Valley",
     "team": "Conveyance"
   },
@@ -265,7 +265,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.86739,
     "lon": 116.04897,
-    "Elev": NaN,
+    "status": "Active",
     "address": "39 Campolino Gardens Stratton",
     "team": "Conveyance"
   },
@@ -274,7 +274,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.90903,
     "lon": 115.90232,
-    "Elev": NaN,
+    "status": "Active",
     "address": "15 Bay View St Bayswater",
     "team": "Conveyance"
   },
@@ -283,7 +283,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.86067,
     "lon": 115.97373,
-    "Elev": NaN,
+    "status": "Active",
     "address": "147 Arthur St Dayton",
     "team": "Conveyance"
   },
@@ -292,7 +292,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.84919,
     "lon": 115.97786,
-    "Elev": NaN,
+    "status": "Active",
     "address": "5 Sapphire Rd Dayton",
     "team": "Conveyance"
   },
@@ -301,7 +301,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.85136,
     "lon": 115.97169,
-    "Elev": NaN,
+    "status": "Active",
     "address": "152 Cranleigh St Dayton",
     "team": "Conveyance"
   },
@@ -310,7 +310,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.95844,
     "lon": 115.86734,
-    "Elev": NaN,
+    "status": "Active",
     "address": "231 Adelaide Tce East Perth",
     "team": "Conveyance"
   },
@@ -319,7 +319,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.9551,
     "lon": 115.88028,
-    "Elev": NaN,
+    "status": "Active",
     "address": "28 Trafalgar Rd East Perth",
     "team": "Conveyance"
   },
@@ -328,7 +328,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.87751,
     "lon": 115.78258,
-    "Elev": NaN,
+    "status": "Active",
     "address": "42 Paine Court Karrinyup",
     "team": "Conveyance"
   },
@@ -337,7 +337,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.87764,
     "lon": 115.91309,
-    "Elev": NaN,
+    "status": "Active",
     "address": "3B Mcpherson Ave  Noranda",
     "team": "Conveyance"
   },
@@ -346,7 +346,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.88927,
     "lon": 115.76259,
-    "Elev": NaN,
+    "status": "Inactive",
     "address": "3 Sackville Terrace Scarborough",
     "team": "Conveyance"
   },
@@ -355,7 +355,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.50376,
     "lon": 115.60786,
-    "Elev": NaN,
+    "status": "fault",
     "address": "TWO ROCKS AT 102 ASHMORE AV",
     "team": "Conveyance"
   },
@@ -364,7 +364,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.81299,
     "lon": 115.7498,
-    "Elev": NaN,
+    "status": "Active",
     "address": "HILLARYS OP 25 RAE Pl",
     "team": "Conveyance"
   },
@@ -373,7 +373,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.54399,
     "lon": 115.65465,
-    "Elev": NaN,
+    "status": "Active",
     "address": "8 Birdie Gr Yanchep",
     "team": "Conveyance"
   },
@@ -382,7 +382,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.53604,
     "lon": 115.63367,
-    "Elev": NaN,
+    "status": "Active",
     "address": "19 Chittick Way Yanchep",
     "team": "Conveyance"
   },
@@ -391,7 +391,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.54243,
     "lon": 115.64781,
-    "Elev": NaN,
+    "status": "Active",
     "address": "62 Moorpark Av Yanchep",
     "team": "Conveyance"
   },
@@ -400,7 +400,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.85682,
     "lon": 115.95613,
-    "Elev": NaN,
+    "status": "Active",
     "address": "1 CHAMAELEON RD Bennett Springs",
     "team": "Conveyance"
   },
@@ -409,7 +409,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.85764,
     "lon": 115.93518,
-    "Elev": NaN,
+    "status": "Inactive",
     "address": "127 Bennett Springs Dr Bennett Springs",
     "team": "Conveyance"
   },
@@ -418,7 +418,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.8569,
     "lon": 115.91827,
-    "Elev": NaN,
+    "status": "fault",
     "address": "BENNETT SPRINGS AT 57 MITRA LOOP",
     "team": "Conveyance"
   },
@@ -427,7 +427,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.81443,
     "lon": 115.97788,
-    "Elev": NaN,
+    "status": "Active",
     "address": "121 Pannage Way Brabham",
     "team": "Conveyance"
   },
@@ -436,7 +436,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.81445,
     "lon": 115.96442,
-    "Elev": NaN,
+    "status": "Active",
     "address": "11 BILDERSEE AV Brabham",
     "team": "Conveyance"
   },
@@ -445,7 +445,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.67317,
     "lon": 116.02944,
-    "Elev": NaN,
+    "status": "Active",
     "address": "15 CORVETTE RD  BULLSBROOK",
     "team": "Conveyance"
   },
@@ -454,7 +454,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.65944,
     "lon": 116.04559,
-    "Elev": NaN,
+    "status": "Active",
     "address": "H66 HURD RD BULLSBROOK",
     "team": "Conveyance"
   },
@@ -463,7 +463,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.86636,
     "lon": 115.9586,
-    "Elev": NaN,
+    "status": "Active",
     "address": "OPP 218 Patricia St Caversham",
     "team": "Conveyance"
   },
@@ -472,7 +472,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.62435,
     "lon": 115.69595,
-    "Elev": NaN,
+    "status": "Active",
     "address": "35 Charlottes Vista  Ellenbrook",
     "team": "Conveyance"
   },
@@ -481,7 +481,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.74789,
     "lon": 115.98098,
-    "Elev": NaN,
+    "status": "Active",
     "address": "109 Pineroo Terrace  Ellenbrook",
     "team": "Conveyance"
   },
@@ -490,7 +490,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.74569,
     "lon": 115.99923,
-    "Elev": NaN,
+    "status": "Active",
     "address": "THE VINES AT 49 HAWTHORDEN AVE",
     "team": "Conveyance"
   },
@@ -499,7 +499,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.76726,
     "lon": 116.02002,
-    "Elev": NaN,
+    "status": "Active",
     "address": "TURNBERRY WAY H14 The Vines",
     "team": "Conveyance"
   },
@@ -508,7 +508,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.76726,
     "lon": 116.02002,
-    "Elev": NaN,
+    "status": "Active",
     "address": "50 Citrus Street Upper Swan",
     "team": "Conveyance"
   },
@@ -517,7 +517,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.7692,
     "lon": 116.02992,
-    "Elev": NaN,
+    "status": "Active",
     "address": "7 Orchard Street Upper Swan",
     "team": "Conveyance"
   },
@@ -526,7 +526,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.62435,
     "lon": 115.69595,
-    "Elev": NaN,
+    "status": "Active",
     "address": "56 Chesham Rise Alkimos",
     "team": "Conveyance"
   },
@@ -535,7 +535,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.605,
     "lon": 115.66324,
-    "Elev": NaN,
+    "status": "Active",
     "address": "79 Zodiac Drive Alkimos",
     "team": "Conveyance"
   },
@@ -544,7 +544,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.59965,
     "lon": 115.67805,
-    "Elev": NaN,
+    "status": "Active",
     "address": "52 Shipmaster Av Alkimos",
     "team": "Conveyance"
   },
@@ -553,7 +553,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.70203,
     "lon": 115.80447,
-    "Elev": NaN,
+    "status": "Active",
     "address": "27 Media Cr Banksia Grove",
     "team": "Conveyance"
   },
@@ -562,7 +562,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.68871,
     "lon": 115.80908,
-    "Elev": NaN,
+    "status": "Active",
     "address": "57 Boomerang Loop Banksia Grove",
     "team": "Conveyance"
   },
@@ -571,7 +571,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.63173,
     "lon": 115.7069,
-    "Elev": NaN,
+    "status": "Active",
     "address": "BUTLER AT 247 LANDBEACH BVD",
     "team": "Conveyance"
   },
@@ -580,7 +580,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.57686,
     "lon": 115.6647,
-    "Elev": NaN,
+    "status": "Active",
     "address": "5 Revolution Ave Eglington",
     "team": "Conveyance"
   },
@@ -589,7 +589,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.81158,
     "lon": 115.85928,
-    "Elev": NaN,
+    "status": "Active",
     "address": "4 Meadowbank Way Landsdale",
     "team": "Conveyance"
   },
@@ -598,7 +598,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.68004,
     "lon": 115.78883,
-    "Elev": NaN,
+    "status": "Active",
     "address": " 69 Mather Dr Neerabup",
     "team": "Conveyance"
   },
@@ -607,7 +607,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.68199,
     "lon": 115.7825,
-    "Elev": NaN,
+    "status": "Active",
     "address": "53 Avery St Neerabup",
     "team": "Conveyance"
   },
@@ -616,7 +616,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.75573,
     "lon": 115.81929,
-    "Elev": NaN,
+    "status": "Active",
     "address": "4 Aquantia Pl Wanneroo",
     "team": "Conveyance"
   },
@@ -625,7 +625,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.56015,
     "lon": 115.76413,
-    "Elev": NaN,
+    "status": "Active",
     "address": "22 Ronlyn Rd Furnissdale",
     "team": "Conveyance"
   },
@@ -634,7 +634,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.5565,
     "lon": 115.68567,
-    "Elev": NaN,
+    "status": "Active",
     "address": "31 Bookleaf lp Halls Head",
     "team": "Conveyance"
   },
@@ -643,7 +643,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.4429,
     "lon": 115.76983,
-    "Elev": NaN,
+    "status": "Active",
     "address": "OPPOSITE 16 Navajo Rd Karnup",
     "team": "Conveyance"
   },
@@ -652,7 +652,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.47095,
     "lon": 115.77904,
-    "Elev": NaN,
+    "status": "Active",
     "address": "281 Lake Valley Drive Lakelands",
     "team": "Conveyance"
   },
@@ -661,7 +661,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.47655,
     "lon": 115.75373,
-    "Elev": NaN,
+    "status": "Active",
     "address": "9 Barringarra Rd Madora Bay",
     "team": "Conveyance"
   },
@@ -670,7 +670,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.46649,
     "lon": 115.75557,
-    "Elev": NaN,
+    "status": "Active",
     "address": "14 Pismo St Madora Bay",
     "team": "Conveyance"
   },
@@ -679,7 +679,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.48774,
     "lon": 115.76425,
-    "Elev": NaN,
+    "status": "Active",
     "address": "9 St Pierre Loop Meadow Spring",
     "team": "Conveyance"
   },
@@ -688,7 +688,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.52033,
     "lon": 115.96749,
-    "Elev": NaN,
+    "status": "Active",
     "address": "25 South St North Dandalup",
     "team": "Conveyance"
   },
@@ -697,7 +697,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.5779,
     "lon": 115.79738,
-    "Elev": NaN,
+    "status": "Active",
     "address": "NORTH YUNDERUP AT 168 CULEENUP RD",
     "team": "Conveyance"
   },
@@ -706,7 +706,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.60603,
     "lon": 115.85845,
-    "Elev": NaN,
+    "status": "Active",
     "address": "29 Sunset Cir Pinjarra",
     "team": "Conveyance"
   },
@@ -715,7 +715,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.43616,
     "lon": 115.7616,
-    "Elev": NaN,
+    "status": "Active",
     "address": "40 Lookout Vista Singleton",
     "team": "Conveyance"
   },
@@ -724,7 +724,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.58867,
     "lon": 115.77561,
-    "Elev": NaN,
+    "status": "Active",
     "address": "22 Tanderra Pl South Yunderup",
     "team": "Conveyance"
   },
@@ -733,7 +733,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.59365,
     "lon": 115.81001,
-    "Elev": NaN,
+    "status": "Active",
     "address": "19 Pegus Mndr South Yunderup ",
     "team": "Conveyance"
   },
@@ -742,7 +742,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.23537,
     "lon": 115.991,
-    "Elev": NaN,
+    "status": "Active",
     "address": "BYFORD AT 4 WOOMERA GRANGE",
     "team": "Conveyance"
   },
@@ -751,7 +751,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.3741,
     "lon": 115.9609,
-    "Elev": NaN,
+    "status": "Active",
     "address": "SERPENTINE AT 2 BUSHEL RD ON WALKER RD",
     "team": "Conveyance"
   },
@@ -760,7 +760,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.02223,
     "lon": 115.89314,
-    "Elev": NaN,
+    "status": "Active",
     "address": "SHELLEY AT 1 LINKWATER ST",
     "team": "Conveyance"
   },
@@ -769,7 +769,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.1583,
     "lon": 116.01532,
-    "Elev": NaN,
+    "status": "Active",
     "address": "21 John Street Armadale",
     "team": "Conveyance"
   },
@@ -778,7 +778,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.13437,
     "lon": 116.01657,
-    "Elev": NaN,
+    "status": "Active",
     "address": "LATHWELL ST H33 Armadale",
     "team": "Conveyance"
   },
@@ -787,7 +787,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.35389,
     "lon": 115.80595,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Opp. 72 Ridge Bvd Baldivis Baldivis ",
     "team": "Conveyance"
   },
@@ -796,7 +796,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.17356,
     "lon": 116.00764,
-    "Elev": NaN,
+    "status": "Active",
     "address": "203 Wungong Rd Brookdale",
     "team": "Conveyance"
   },
@@ -805,7 +805,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.23938,
     "lon": 115.98117,
-    "Elev": NaN,
+    "status": "Active",
     "address": "19 Culham Vista Byford",
     "team": "Conveyance"
   },
@@ -814,7 +814,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.22351,
     "lon": 116.01163,
-    "Elev": NaN,
+    "status": "Active",
     "address": "15 Camembert St Byford",
     "team": "Conveyance"
   },
@@ -823,7 +823,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.20968,
     "lon": 115.98573,
-    "Elev": NaN,
+    "status": "Active",
     "address": "BARJADDA ST H19 BYFORD",
     "team": "Conveyance"
   },
@@ -832,7 +832,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.07874,
     "lon": 115.9101,
-    "Elev": NaN,
+    "status": "Active",
     "address": "33 The Heights Canning Vale ",
     "team": "Conveyance"
   },
@@ -841,7 +841,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.08175,
     "lon": 115.9061,
-    "Elev": NaN,
+    "status": "Active",
     "address": "CANNING VALE AT 7 RANGEVIEW PL",
     "team": "Conveyance"
   },
@@ -850,7 +850,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.9911,
     "lon": 115.89742,
-    "Elev": NaN,
+    "status": "Active",
     "address": "EAST VICTORIA PARK AT 121 CANTERBURY TCE",
     "team": "Conveyance"
   },
@@ -859,7 +859,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.11662,
     "lon": 115.91809,
-    "Elev": NaN,
+    "status": "Active",
     "address": "12 MacDougal Way Harrisdale",
     "team": "Conveyance"
   },
@@ -868,7 +868,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -31.92248,
     "lon": 116.03175,
-    "Elev": NaN,
+    "status": "Active",
     "address": "HELENA VALLEY AT 43 GREYSTONE TCE",
     "team": "Conveyance"
   },
@@ -877,7 +877,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.1782,
     "lon": 115.99253,
-    "Elev": NaN,
+    "status": "Active",
     "address": "18 Hilarion Elbow Hilbert",
     "team": "Conveyance"
   },
@@ -886,7 +886,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.17826,
     "lon": 115.96507,
-    "Elev": NaN,
+    "status": "Active",
     "address": "24 Oaklawn St Hilbert",
     "team": "Conveyance"
   },
@@ -895,7 +895,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.28039,
     "lon": 116.00043,
-    "Elev": NaN,
+    "status": "Active",
     "address": "25 Haywire Ave Mundijong",
     "team": "Conveyance"
   },
@@ -904,7 +904,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.13877,
     "lon": 115.92577,
-    "Elev": NaN,
+    "status": "Active",
     "address": "RIVA ENT & BARCELONA  Piara Waters",
     "team": "Conveyance"
   },
@@ -913,7 +913,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.37613,
     "lon": 115.98288,
-    "Elev": NaN,
+    "status": "Active",
     "address": "SERPENTINE AT 92 RANGEVIEW LOOP",
     "team": "Conveyance"
   },
@@ -922,7 +922,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.36409,
     "lon": 115.9774,
-    "Elev": NaN,
+    "status": "Active",
     "address": "SERPENTINE AT 4 WELLARD ST",
     "team": "Conveyance"
   },
@@ -931,7 +931,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.13169,
     "lon": 115.98907,
-    "Elev": NaN,
+    "status": "Active",
     "address": "42 McCubbin Loop Seville Grove",
     "team": "Conveyance"
   },
@@ -940,7 +940,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.10545,
     "lon": 115.95802,
-    "Elev": NaN,
+    "status": "Active",
     "address": "CLEARWATER DR H22 Southern River",
     "team": "Conveyance"
   },
@@ -949,7 +949,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.08149,
     "lon": 115.95092,
-    "Elev": NaN,
+    "status": "Active",
     "address": "ROSEWOOD LANE H21 Thornlie",
     "team": "Conveyance"
   },
@@ -958,7 +958,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.35416,
     "lon": 115.8121,
-    "Elev": NaN,
+    "status": "Active",
     "address": "BALDIVIS AT 23 KEMPEANA WAY",
     "team": "Conveyance"
   },
@@ -967,7 +967,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.23755,
     "lon": 115.87749,
-    "Elev": NaN,
+    "status": "Active",
     "address": "CASUARINA ORTON RD OPP PRISON",
     "team": "Conveyance"
   },
@@ -976,7 +976,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.23569,
     "lon": 115.88244,
-    "Elev": NaN,
+    "status": "Active",
     "address": "CASUARINA AT 4 TIANA COVE",
     "team": "Conveyance"
   },
@@ -985,7 +985,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.23085,
     "lon": 115.82776,
-    "Elev": NaN,
+    "status": "Active",
     "address": "ORELIA AT 27 BERKLEY WAY",
     "team": "Conveyance"
   },
@@ -994,7 +994,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.35901,
     "lon": 115.79244,
-    "Elev": NaN,
+    "status": "Active",
     "address": "BALDIVIS AT 25 GREYGUM RIDGE",
     "team": "Conveyance"
   },
@@ -1003,7 +1003,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.17716,
     "lon": 115.83693,
-    "Elev": NaN,
+    "status": "Active",
     "address": "40 Barfield Rd  Hammond Park",
     "team": "Conveyance"
   },
@@ -1012,7 +1012,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.17716,
     "lon": 115.83693,
-    "Elev": NaN,
+    "status": "Active",
     "address": "408 Wattleup Rd Hammond Park",
     "team": "Conveyance"
   },
@@ -1021,7 +1021,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.09785,
     "lon": 115.85601,
-    "Elev": NaN,
+    "status": "Active",
     "address": "18 Kooyonga Crs Jandakot",
     "team": "Conveyance"
   },
@@ -1030,7 +1030,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.23202,
     "lon": 115.78117,
-    "Elev": NaN,
+    "status": "Active",
     "address": "KWINANA BEACH AT 1 YEATES RD",
     "team": "Conveyance"
   },
@@ -1039,7 +1039,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.08323,
     "lon": 115.7594,
-    "Elev": NaN,
+    "status": "Active",
     "address": "3 Darkan Ave North Coogee",
     "team": "Conveyance"
   },
@@ -1048,7 +1048,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.13746,
     "lon": 115.85064,
-    "Elev": NaN,
+    "status": "Active",
     "address": "34 Shala Way Success\r\n34 Marraboor Pl Success",
     "team": "Conveyance"
   },
@@ -1057,7 +1057,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.11715,
     "lon": 115.8729,
-    "Elev": NaN,
+    "status": "Active",
     "address": "10 Mercury Street Treeby",
     "team": "Conveyance"
   },
@@ -1066,7 +1066,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.11972,
     "lon": 115.88279,
-    "Elev": NaN,
+    "status": "Active",
     "address": "12 Mangrove Street Treeby",
     "team": "Conveyance"
   },
@@ -1075,7 +1075,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.11992,
     "lon": 115.87661,
-    "Elev": NaN,
+    "status": "Active",
     "address": "72 Sunstone Blvd Treeby",
     "team": "Conveyance"
   },
@@ -1084,7 +1084,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.1938,
     "lon": 115.86164,
-    "Elev": NaN,
+    "status": "Active",
     "address": "62 Honeywood Ave Wandi Wandi",
     "team": "Conveyance"
   },
@@ -1093,7 +1093,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.20349,
     "lon": 115.86196,
-    "Elev": NaN,
+    "status": "Active",
     "address": "39 Saltbush Street Wandi",
     "team": "Conveyance"
   },
@@ -1102,7 +1102,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.25814,
     "lon": 115.86323,
-    "Elev": NaN,
+    "status": "Active",
     "address": "OPP 9 WOOLCOOT Wellard",
     "team": "Conveyance"
   },
@@ -1111,7 +1111,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.27082,
     "lon": 115.82957,
-    "Elev": NaN,
+    "status": "Active",
     "address": "5 Wheelwright Gdns Wellard",
     "team": "Conveyance"
   },
@@ -1120,7 +1120,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.27153,
     "lon": 115.82663,
-    "Elev": NaN,
+    "status": "Inactive",
     "address": "31 BRANTWOOD TURN  Wellard",
     "team": "Conveyance"
   },
@@ -1129,7 +1129,7 @@ var alldata = {
     "StationId": "IWSS",
     "lat": -32.11943,
     "lon": 115.81421,
-    "Elev": NaN,
+    "status": "fault",
     "address": "12 The Summit Yangebup",
     "team": "Conveyance"
   },
@@ -1138,7 +1138,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.14443,
     "lon": 115.82909,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Thomsons lake - Thomsons Lake (6142517)",
     "team": "Conveyance"
   },
@@ -1147,7 +1147,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.0913,
     "lon": 115.82124,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Bibra Lake - Bibra Lake (6142520)",
     "team": "Conveyance"
   },
@@ -1156,7 +1156,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.13775,
     "lon": 115.83169,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Kogalup Lake - Kogalup Lake South (6142522)",
     "team": "Conveyance"
   },
@@ -1165,7 +1165,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.12387,
     "lon": 115.83158,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Lake Yangebup - Lake Yangebup (6142523)",
     "team": "Conveyance"
   },
@@ -1174,7 +1174,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.13158,
     "lon": 115.8316,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Kogalup Lake - Kogalup Lake North (6142575)",
     "team": "Conveyance"
   },
@@ -1183,7 +1183,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.06276,
     "lon": 115.92916,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Hughes St BD - Magnet Rd CB",
     "team": "Conveyance"
   },
@@ -1192,7 +1192,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.88087,
     "lon": 115.86129,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Bertram St BD - M105 (Gay St CB)",
     "team": "Conveyance"
   },
@@ -1201,7 +1201,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.91881,
     "lon": 115.92214,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Bayswater MD - M101 (Inlet A018 Clavering Rd)",
     "team": "Conveyance"
   },
@@ -1210,7 +1210,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.89506,
     "lon": 115.8888,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Peters Place Reserve, Light Street Morley ",
     "team": "Conveyance"
   },
@@ -1219,7 +1219,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.88485,
     "lon": 116.03325,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Woodbridge Creek BD - M021 (Inlet B009/Farrall Rd)",
     "team": "Conveyance"
   },
@@ -1228,7 +1228,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.88602,
     "lon": 116.04573,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Woodbridge Creek BD - M029 (Inlet E001/Morrison Rd CB)",
     "team": "Conveyance"
   },
@@ -1237,7 +1237,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.87633,
     "lon": 116.00942,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Blackadder Creek MD - U/S of A023? (Gt Nth Hwy)  try A018?",
     "team": "Conveyance"
   },
@@ -1246,7 +1246,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.05898,
     "lon": 115.81464,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Kardinya BD - M080 (Frederick Balwin Pk CB)",
     "team": "Conveyance"
   },
@@ -1255,7 +1255,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.05921,
     "lon": 115.85186,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Bateman Road BD - M051 (Endeavour Ave CB)",
     "team": "Conveyance"
   },
@@ -1264,7 +1264,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.86172,
     "lon": 115.81197,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Delawney BD - M016 (Cressall Rd CB)",
     "team": "Conveyance"
   },
@@ -1273,7 +1273,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.86263,
     "lon": 115.80722,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Delawney BD - M017 (Whipple St CB/Inlet E018)",
     "team": "Conveyance"
   },
@@ -1282,7 +1282,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.86656,
     "lon": 115.80574,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Delawney BD - M018 (Ledgar Rd CB)",
     "team": "Conveyance"
   },
@@ -1291,7 +1291,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.85565,
     "lon": 115.80675,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Dutton Cr BD - M015 (Dutton Cr CB/Inlet F009)   ",
     "team": "Conveyance"
   },
@@ -1300,7 +1300,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.83397,
     "lon": 115.78728,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Merrick Wy BD - M059 (Merrick Wy CB)",
     "team": "Conveyance"
   },
@@ -1309,7 +1309,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.90875,
     "lon": 115.94019,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Chapman St MD - M125 (Railway Museum East CB)",
     "team": "Conveyance"
   },
@@ -1318,7 +1318,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.93309,
     "lon": 115.85105,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Claisebrook MD - M011 (Smiths Lake CB)",
     "team": "Conveyance"
   },
@@ -1327,7 +1327,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.91038,
     "lon": 115.84632,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Powell St MD - M012 (Dog Swamp CB)",
     "team": "Conveyance"
   },
@@ -1336,7 +1336,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.90553,
     "lon": 115.84989,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Wellington Pde BD - M119 (Wellington Pde CB)",
     "team": "Conveyance"
   },
@@ -1345,7 +1345,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.90783,
     "lon": 115.85939,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Wordsworth Ave BD - M120 (Yokine Res CB)",
     "team": "Conveyance"
   },
@@ -1354,7 +1354,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.9069,
     "lon": 115.76871,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Cobb St BD - M107 (Cobb St CB)",
     "team": "Conveyance"
   },
@@ -1363,7 +1363,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.89971,
     "lon": 115.7667,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Colin Rd MD - M108 (Colin Rd CB)",
     "team": "Conveyance"
   },
@@ -1372,7 +1372,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.89369,
     "lon": 115.76351,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Joyce St BD - M066 (Joyce St CB)",
     "team": "Conveyance"
   },
@@ -1381,7 +1381,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.88932,
     "lon": 115.76499,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Abbett Park BD - M109 (Abbett Pk CB)",
     "team": "Conveyance"
   },
@@ -1390,7 +1390,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.85756,
     "lon": 115.92649,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Beechboro/Emu Swamp MD - M075 (Inlet A041/Bennett Springs Dr)",
     "team": "Conveyance"
   },
@@ -1399,7 +1399,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.86129,
     "lon": 115.93173,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Emu Swamp MD - Hillwater Prom CB/Inlet A019",
     "team": "Conveyance"
   },
@@ -1408,7 +1408,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.30167,
     "lon": 115.7174,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Forrester Rd MD - Forrester Rd CB",
     "team": "Conveyance"
   },
@@ -1417,7 +1417,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.90321,
     "lon": 115.80066,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Osborne Park BD - Inlet H011 (Scarborough Beach Rd)",
     "team": "Conveyance"
   },
@@ -1426,7 +1426,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.98964,
     "lon": 115.94404,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Mills St MD - M033 (Pilbara St CB)",
     "team": "Conveyance"
   },
@@ -1435,7 +1435,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.00132,
     "lon": 115.93388,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Mills St MD - M034 (Inlet A027 Mills St/Meuse Wy)",
     "team": "Conveyance"
   },
@@ -1444,7 +1444,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.99607,
     "lon": 115.92219,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Welshpool BD - M036 (Charles St CB)",
     "team": "Conveyance"
   },
@@ -1453,7 +1453,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.99608,
     "lon": 115.9179,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Welshpool BD - M053 (Ellam St East CB)",
     "team": "Conveyance"
   },
@@ -1462,7 +1462,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.98752,
     "lon": 115.93773,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Abernethy Rd BD - M067 (Division St CB)",
     "team": "Conveyance"
   },
@@ -1471,7 +1471,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.99188,
     "lon": 115.91708,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Welshpool BD - M069 (Forward St CB)",
     "team": "Conveyance"
   },
@@ -1480,7 +1480,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.00481,
     "lon": 115.92576,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Welshpool BD - M078 (Alexandra Pl CB)",
     "team": "Conveyance"
   },
@@ -1489,7 +1489,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.0029,
     "lon": 115.93256,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Mills St MD - M035 (MH A019/Sevenoaks St) - was GIS041 changed location",
     "team": "Conveyance"
   },
@@ -1498,7 +1498,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.00083,
     "lon": 115.93383,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Kalgan Rd BD - M081 (Inlet E003/10 Tilli Pl)",
     "team": "Conveyance"
   },
@@ -1507,7 +1507,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.14941,
     "lon": 115.98855,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Neerigen Brook Nth MD - Inlet E023 (Next to 98 Girrawheen St)",
     "team": "Conveyance"
   },
@@ -1516,7 +1516,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.97339,
     "lon": 115.98864,
-    "Elev": NaN,
+    "status": "Inactive",
     "address": "Crumpet Creek - M077 (521 Old Dundas Rd)",
     "team": "Conveyance"
   },
@@ -1525,7 +1525,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.12261,
     "lon": 115.99777,
-    "Elev": NaN,
+    "status": "fault",
     "address": "Second Rd MD - Kuhl Park CB (Inlet A016)",
     "team": "Conveyance"
   },
@@ -1534,7 +1534,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.98384,
     "lon": 115.92538,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Star St BD - M061 (Star St CB) ",
     "team": "Conveyance"
   },
@@ -1543,7 +1543,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.96208,
     "lon": 115.93505,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Cloverdale BD - M079 (Faulkner Pk Sth CB)",
     "team": "Conveyance"
   },
@@ -1552,7 +1552,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.96504,
     "lon": 115.81424,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Aberdare Rd BD - M004 (Aberdare Rd CB)",
     "team": "Conveyance"
   },
@@ -1561,7 +1561,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.95261,
     "lon": 115.807,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Subiaco MD - M006 (Claypan CB/Inlet A021)",
     "team": "Conveyance"
   },
@@ -1570,7 +1570,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.98669,
     "lon": 115.91929,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Victoria Park MD - Jupiter St CB",
     "team": "Conveyance"
   },
@@ -1579,7 +1579,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.98579,
     "lon": 115.91383,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Victoria Park MD - Somerset St CB",
     "team": "Conveyance"
   },
@@ -1588,7 +1588,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.94447,
     "lon": 115.81034,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Wembley MD - M013 (Mabel Talbot CB)",
     "team": "Conveyance"
   },
@@ -1597,7 +1597,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.10817,
     "lon": 116.00791,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Westfield Park MD - M068 (Hemmingway Dr South CB)",
     "team": "Conveyance"
   },
@@ -1606,7 +1606,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.01615,
     "lon": 115.93343,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Wharf Street MD - Wharf St CB",
     "team": "Conveyance"
   },
@@ -1615,7 +1615,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.14034,
     "lon": 115.99799,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Williams Rd MD - Inlet A026 (Braemore St/Toorak Rd)",
     "team": "Conveyance"
   },
@@ -1624,7 +1624,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.8594,
     "lon": 115.90332,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Malaga Dr BD - Cogla St CB",
     "team": "Conveyance"
   },
@@ -1633,7 +1633,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.99466,
     "lon": 115.9645,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Black Creek BD - Banksia Rd CB",
     "team": "Conveyance"
   },
@@ -1642,7 +1642,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.99402,
     "lon": 115.95026,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Treasure Rd BD - Treasure Rd CB",
     "team": "Conveyance"
   },
@@ -1651,7 +1651,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.00842,
     "lon": 115.97375,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Woodlupine Brook BD - William St Sth CB (Inlet X017)",
     "team": "Conveyance"
   },
@@ -1660,7 +1660,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.98515,
     "lon": 116.01731,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Woodlupine Brook BD - Hale Rd Culvert (Inlet D070)",
     "team": "Conveyance"
   },
@@ -1669,7 +1669,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.02801,
     "lon": 115.96107,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Yule Brook MD - M038 (Inlet A013/Railway Pde)",
     "team": "Conveyance"
   },
@@ -1678,7 +1678,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.03256,
     "lon": 115.95882,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Yule Brook MD - M041 (32 Ladywell St)",
     "team": "Conveyance"
   },
@@ -1687,7 +1687,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.99056,
     "lon": 115.99747,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Woodlupine Brook BD - M049 (Inlet D042/Cypress Rd)",
     "team": "Conveyance"
   },
@@ -1696,7 +1696,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.05637,
     "lon": 115.74556,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Essex St MD - MH A010 (Packenham St/Nairn St)",
     "team": "Conveyance"
   },
@@ -1705,7 +1705,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.05393,
     "lon": 115.75175,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Essex St MD - MH A018 (Holdsworth St/Parry St)",
     "team": "Conveyance"
   },
@@ -1714,7 +1714,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.05989,
     "lon": 115.75017,
-    "Elev": NaN,
+    "status": "Inactive",
     "address": "Howard St MD - MH A003 (14 Howard St)",
     "team": "Conveyance"
   },
@@ -1723,7 +1723,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.90019,
     "lon": 115.76684,
-    "Elev": NaN,
+    "status": "fault",
     "address": "Cobb St BD - MH E002 (12 Colin Rd)",
     "team": "Conveyance"
   },
@@ -1732,7 +1732,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.98647,
     "lon": 115.78296,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Bayview Tce MD - MH A006 (12 Princess Rd)",
     "team": "Conveyance"
   },
@@ -1741,7 +1741,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.95211,
     "lon": 115.8641,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Wellington St BD - MH C006 (M117A/Pier St)",
     "team": "Conveyance"
   },
@@ -1750,7 +1750,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.92617,
     "lon": 115.8835,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Maylands-Inglewood MD - MH A020 (Central Ave/John St)",
     "team": "Conveyance"
   },
@@ -1759,7 +1759,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.94884,
     "lon": 115.85374,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Milligan St BD - MH F005 ",
     "team": "Conveyance"
   },
@@ -1768,7 +1768,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.03797,
     "lon": 115.91745,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Bannister Creek MD - Inlet A003 (Bursaria Cr/Hybanthus Rd)",
     "team": "Conveyance"
   },
@@ -1777,7 +1777,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.89692,
     "lon": 115.76482,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Deanmore SQ BD - M126 (Deanmore Sq CB/Outlet D005)",
     "team": "Conveyance"
   },
@@ -1786,7 +1786,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.94459,
     "lon": 115.93431,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Durban St BD - Inlet C007 (21 Durban St)",
     "team": "Conveyance"
   },
@@ -1795,7 +1795,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.05646,
     "lon": 115.99667,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Helm St MD - Inlet A009 (31 Helm St)",
     "team": "Conveyance"
   },
@@ -1804,7 +1804,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.92863,
     "lon": 115.80523,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Herdsman Inner Ring Drain - Herdsman Wildlife Centre",
     "team": "Conveyance"
   },
@@ -1813,7 +1813,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.01756,
     "lon": 115.91929,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Mills St MD - MH A002 (45 Fern Rd)",
     "team": "Conveyance"
   },
@@ -1822,7 +1822,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.15535,
     "lon": 115.99919,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Neerigen Brook Sth MD - Inlet B036 (31 Dawson St)",
     "team": "Conveyance"
   },
@@ -1831,7 +1831,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.89475,
     "lon": 115.81192,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Osborne Park BD - Inlet H017 (51 Telford Cres)",
     "team": "Conveyance"
   },
@@ -1840,7 +1840,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.88617,
     "lon": 116.04656,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Rhine Park BD - Inlet F002 (Morrison Rd/Marboro Rd)",
     "team": "Conveyance"
   },
@@ -1849,7 +1849,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.95546,
     "lon": 115.92256,
-    "Elev": NaN,
+    "status": "Active",
     "address": "South Belmont MD - Inlet A014 (59 Newlyn St)",
     "team": "Conveyance"
   },
@@ -1858,7 +1858,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.88919,
     "lon": 116.04902,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Watton Park BD - Watton Park North CB (E005) M027",
     "team": "Conveyance"
   },
@@ -1867,7 +1867,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.87016,
     "lon": 115.89621,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Widgee Road BD - Outlet B065 (58 Ivory St)",
     "team": "Conveyance"
   },
@@ -1876,7 +1876,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.86019,
     "lon": 115.94049,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Local Authority  - Plume Gdns CB (LA) (outlet side)",
     "team": "Conveyance"
   },
@@ -1885,7 +1885,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.06018,
     "lon": 115.93067,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Hughes St BD - M043 (MH B024)",
     "team": "Conveyance"
   },
@@ -1894,7 +1894,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.94848,
     "lon": 115.85084,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Fitzgerald St BD - MH X003 (Perth Arena)",
     "team": "Conveyance"
   },
@@ -1903,7 +1903,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.93688,
     "lon": 115.8732,
-    "Elev": NaN,
+    "status": "Inactive",
     "address": "Mount Lawley MD - MH A016 (23 Barlee St)",
     "team": "Conveyance"
   },
@@ -1912,7 +1912,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.94791,
     "lon": 115.83098,
-    "Elev": NaN,
+    "status": "fault",
     "address": "Subiaco MD - MH A043 (142 Churchill Av)",
     "team": "Conveyance"
   },
@@ -1921,7 +1921,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.05806,
     "lon": 115.74605,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Essex St MD - MH A004 (The Esplanade Park)",
     "team": "Conveyance"
   },
@@ -1930,7 +1930,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.90007,
     "lon": 115.80122,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Osborne Park BD - Node OSH11BLA1 (In Oswald St)",
     "team": "Conveyance"
   },
@@ -1939,7 +1939,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.86415,
     "lon": 115.90436,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Malaga Dr BD - MH F012 (8 Meka St)",
     "team": "Conveyance"
   },
@@ -1948,7 +1948,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.02354,
     "lon": 115.94996,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Lacey St MD - Bickley Rd CB (near outlet side)",
     "team": "Conveyance"
   },
@@ -1957,7 +1957,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.06774,
     "lon": 115.75322,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Lefroy Rd MD  - MH X003 (15 Little Lefroy Rd)",
     "team": "Conveyance"
   },
@@ -1966,7 +1966,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.91036,
     "lon": 115.8219,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Balgay BD - M064 (Outlet G039/Sangiorgio Ct)",
     "team": "Conveyance"
   },
@@ -1975,7 +1975,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.05204,
     "lon": 115.75095,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Essex St MD - MH A023 (Parry St/Ellen St)",
     "team": "Conveyance"
   },
@@ -1984,7 +1984,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.05499,
     "lon": 115.7421,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Cliff St MD - MH A005 (Cliff St/Phiillimore St)",
     "team": "Conveyance"
   },
@@ -1993,7 +1993,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.93946,
     "lon": 115.86453,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Hyde Park BD - MH H006 (William St/Lincoln St)",
     "team": "Conveyance"
   },
@@ -2002,7 +2002,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.9852,
     "lon": 115.78144,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Bay View Tce MD - MH A011 (Bayview Tce/Park Lane)",
     "team": "Conveyance"
   },
@@ -2011,7 +2011,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.98533,
     "lon": 115.77513,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Bay View Tce MD - MH A019 (356 Stirling Hwy)",
     "team": "Conveyance"
   },
@@ -2020,7 +2020,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.94564,
     "lon": 115.92935,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Hubert St BD - MH B004 (Daly St/KatoombaPl)",
     "team": "Conveyance"
   },
@@ -2029,7 +2029,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.9236,
     "lon": 115.91737,
-    "Elev": NaN,
+    "status": "Active",
     "address": "King William St BD - M071 (MH B013/90 King William St)",
     "team": "Conveyance"
   },
@@ -2038,7 +2038,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.90224,
     "lon": 115.90147,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Browns Lake East BD - MH D012 (150/152 Russell St)",
     "team": "Conveyance"
   },
@@ -2047,7 +2047,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.92226,
     "lon": 115.9158,
-    "Elev": NaN,
+    "status": "Active",
     "address": "King William St BD - M072 (MH B016/60 King William St)",
     "team": "Conveyance"
   },
@@ -2056,7 +2056,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.89999,
     "lon": 115.81851,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Hutton St BD - Inlet J004 (Mitchell Fwy)",
     "team": "Conveyance"
   },
@@ -2065,7 +2065,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.90907,
     "lon": 115.79964,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Osborne Park BD - Inlet H008 ((Pearson St)",
     "team": "Conveyance"
   },
@@ -2074,7 +2074,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.90057,
     "lon": 115.80263,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Osborne Park BD - Node OSH11B (near Oswald St)",
     "team": "Conveyance"
   },
@@ -2083,7 +2083,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.01558,
     "lon": 115.95756,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Lacey St MD - Lacey St CB (near outlet side)",
     "team": "Conveyance"
   },
@@ -2092,7 +2092,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.87747,
     "lon": 115.8297,
-    "Elev": NaN,
+    "status": "Inactive",
     "address": "Beryl St BD - MH C013 (Beryl St/Campion Ave)",
     "team": "Conveyance"
   },
@@ -2101,7 +2101,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.05159,
     "lon": 115.75196,
-    "Elev": NaN,
+    "status": "fault",
     "address": "Essex St MD - MH A027 (29 Ellen St)",
     "team": "Conveyance"
   },
@@ -2110,7 +2110,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.95055,
     "lon": 115.9299,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Hubert St BD - MH B019 (5 Fairbrother St)",
     "team": "Conveyance"
   },
@@ -2119,7 +2119,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.92325,
     "lon": 115.84846,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Claisebrook MD - M008 (MH A055/35 Eton St) ",
     "team": "Conveyance"
   },
@@ -2128,7 +2128,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.94351,
     "lon": 115.85956,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Claisebrook MD - MH A019 (Stuart St/Lake St)",
     "team": "Conveyance"
   },
@@ -2137,7 +2137,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.94794,
     "lon": 115.8232,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Subiaco MD - M007 (MH A037-Rowland St/Forrest Wlk)",
     "team": "Conveyance"
   },
@@ -2146,7 +2146,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.94794,
     "lon": 115.82761,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Subiaco MD - MH A040 (245 Churchill Ave)",
     "team": "Conveyance"
   },
@@ -2155,7 +2155,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.95091,
     "lon": 115.83138,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Kings Park BD - MH J005 (44 Bedford St)",
     "team": "Conveyance"
   },
@@ -2164,7 +2164,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.86536,
     "lon": 115.90445,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Malaga Dr BD - Glyde Ct CB",
     "team": "Conveyance"
   },
@@ -2173,7 +2173,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.93592,
     "lon": 115.87946,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Railway Parade BD - MH B005 (Railway Pde/Almondbury Rd)",
     "team": "Conveyance"
   },
@@ -2182,7 +2182,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.93155,
     "lon": 115.89339,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Seventh Ave BD - MH D003 (39 Seventh Ave)",
     "team": "Conveyance"
   },
@@ -2191,7 +2191,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.12943,
     "lon": 115.77679,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Packham BD - Causeway CB (Fawcett Rd)",
     "team": "Conveyance"
   },
@@ -2200,7 +2200,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.12008,
     "lon": 115.77917,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Packham BD - Market Garden Swamp (Troode St)",
     "team": "Conveyance"
   },
@@ -2209,7 +2209,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.29339,
     "lon": 115.76698,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Elanora Dr BD - Cuthbertson Reserve Lake (Elanora Dr)",
     "team": "Conveyance"
   },
@@ -2218,7 +2218,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.1378,
     "lon": 116.01477,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Rundle St MD - MH A040",
     "team": "Conveyance"
   },
@@ -2227,7 +2227,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.11809,
     "lon": 116.01172,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Denny Av BD - B015(adjacent to Kelmscott Baptist Church)",
     "team": "Conveyance"
   },
@@ -2236,7 +2236,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -32.06368,
     "lon": 115.75246,
-    "Elev": NaN,
+    "status": "Active",
     "address": "South St MD - A004 (South St/South Tce)",
     "team": "Conveyance"
   },
@@ -2245,7 +2245,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.96117,
     "lon": 115.87054,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Bennett St MD - A004 (Bennett St/Terrace Rd)",
     "team": "Conveyance"
   },
@@ -2254,7 +2254,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.94789,
     "lon": 115.82753,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Subiaco MD - X006 (Churchill Ave)",
     "team": "Conveyance"
   },
@@ -2263,7 +2263,7 @@ var alldata = {
     "StationId": "Level",
     "lat": -31.97676,
     "lon": 115.81171,
-    "Elev": NaN,
+    "status": "Active",
     "address": "Crawley BD- C007 (Clifton St Nedlands)",
     "team": "Conveyance"
   }
