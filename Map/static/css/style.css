@@ -5,3 +5,13 @@ body,
   padding: 0;
   margin: 0;
 }
+.marker-active {
+  background-color:  green; /* Default color */
+}
+
+.marker-fault {
+  background-color: red; /* Color for fault status */
+}
+.marker-inactive {
+  background-color: blue; /* Color for inactive status */
+}

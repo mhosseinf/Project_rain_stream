@@ -42,54 +42,65 @@ function createMarkers(data) {
     // Loop through the station objects.
     for (let i = 0; i < stations.length; i++) {
         let station = stations[i];
-        // Determine the marker class based on station status.
-        let markerClass = 'default'; // Default class
-        if (station.status === 'fault') {
+        // Determine the marker class based on station activity and status.
+        let markerClass = 'active'; // Default class
+        if (station.status === 'Inactive') {
+            markerClass = 'inactive'; // Blue for inactive status
+        } else if (station.status === 'fault') {
             markerClass = 'fault'; // Orange for fault status
-        } else if (station.status === 'active') {
-            markerClass = 'active'; // Green for active status
         }
     
         // Check the StationId property to determine the type of marker.
         if (station.StationId === 'Rain_gauge') {
             // For Rain_gauge station, create a rain marker and bind a popup.
-            let rainMarker = L.marker([station.lat, station.lon])
-                .bindPopup(
-                    `<h3>${station.address}</h3><h3>Site No: ${station.Sitno}</h3><h3>status: ${station.status}</h3>`
-                );
+            let rainMarker = L.marker([station.lat, station.lon], {
+                icon: L.divIcon({
+                    className: `marker-${markerClass}`, // Use marker class for styling
+                })
+            }).bindPopup(
+                `<h3>${station.address}</h3><h3>Site No: ${station.Sitno}</h3><h3>Status: ${station.status}</h3>`
+            );
     
             // Add the rain marker to the rainMarkers array.
             rainMarkers.push(rainMarker);
         } else if (station.StationId === 'GSTN') {
             // For GSTN station, create a GSTN marker and bind a popup.
-            let GSTNMarker = L.marker([station.lat, station.lon])
-                .bindPopup(
-                    `<h3>${station.address}</h3><h3>Site No: ${station.Sitno}</h3><h3>status: ${station.status}</h3>`
-                );
+            let GSTNMarker = L.marker([station.lat, station.lon], {
+                icon: L.divIcon({
+                    className: `marker-${markerClass}`, // Use marker class for styling
+                })
+            }).bindPopup(
+                `<h3>${station.address}</h3><h3>Site No: ${station.Sitno}</h3><h3>Status: ${station.status}</h3>`
+            );
     
             // Add the GSTN marker to the GSTNMarkers array.
             GSTNMarkers.push(GSTNMarker);
         } else if (station.StationId === 'IWSS') {
             // For IWSS station, create an IWSS marker and bind a popup.
-            let IWSSMarker = L.marker([station.lat, station.lon])
-                .bindPopup(
-                    `<h3>${station.address}</h3><h3>Site No: ${station.Sitno}</h3><h3>status: ${station.status}</h3>`
-                );
+            let IWSSMarker = L.marker([station.lat, station.lon], {
+                icon: L.divIcon({
+                    className: `marker-${markerClass}`, // Use marker class for styling
+                })
+            }).bindPopup(
+                `<h3>${station.address}</h3><h3>Site No: ${station.Sitno}</h3><h3>Status: ${station.status}</h3>`
+            );
     
             // Add the IWSS marker to the IWSSMarkers array.
             IWSSMarkers.push(IWSSMarker);
         } else if (station.StationId === 'Level') {
             // For level station, create a level marker and bind a popup.
-            let levelMarker = L.marker([station.lat, station.lon])
-                .bindPopup(
-                    `<h3>${station.address}</h3><h3>Site No: ${station.Sitno}</h3><h3>status: ${station.status}</h3>`
-                );
+            let levelMarker = L.marker([station.lat, station.lon], {
+                icon: L.divIcon({
+                    className: `marker-${markerClass}`, // Use marker class for styling
+                })
+            }).bindPopup(
+                `<h3>${station.address}</h3><h3>Site No: ${station.Sitno}</h3><h3>Status: ${station.status}</h3><h3>Activity: ${station.activity}</h3>`
+            );
     
             // Add the level marker to the levelMarkers array.
             levelMarkers.push(levelMarker);
         }
     }
-    
 
     // Create layer groups for rain markers and GSTN markers.
     let rainLayerGroup = L.layerGroup(rainMarkers);
